@@ -1,0 +1,728 @@
+Title,Year,Director,Duration,Rating,Votes,Description,Country,BoxOffice_USD,Genre,Production_Company,Critic_Reviews
+Winds of Fate 4,1980,R. Lee,167,4.1,182425,A touching love story with heartwarming moments.,China,179936008,Romance,DreamWorks,229
+Firestorm 11,2014,S. Chen,166,4.1,449351,A fast-paced thriller with intense action scenes.,China,802121619,Action,Netflix,466
+Silent Echo 2,2016,A. Khan,170,4.1,363328,A fast-paced thriller with intense action scenes.,Japan,225526871,Action,Pixar,539
+City Lights 4,1982,L. Zhang,170,9.9,62371,An emotional journey exploring complex characters.,Japan,69813738,Drama,Netflix,606
+Broken Truth 1,1990,L. Zhang,91,5.3,4600,An imaginative world filled with magic and wonder.,USA,375136716,Fantasy,Studio Ghibli,330
+Broken Truth 12,1985,D. Patel,116,4.4,268620,An emotional journey exploring complex characters.,France,200330529,Drama,Warner Bros,451
+Crimson Sky 20,2004,R. Lee,117,5.3,38970,A light-hearted comedy that guarantees laughter.,China,98944654,Comedy,Paramount Pictures,770
+Eternal Love 4,2016,T. Johnson,111,5.5,86559,A light-hearted comedy that guarantees laughter.,USA,746757001,Comedy,Warner Bros,939
+Broken Truth 7,1982,L. Zhang,129,4.3,288173,An emotional journey exploring complex characters.,USA,719946753,Drama,Netflix,261
+Winds of Fate 16,1993,S. Chen,169,7.5,355096,An emotional journey exploring complex characters.,USA,856605219,Drama,Warner Bros,40
+Winds of Fate 6,1990,M. Brown,112,4.6,327982,A suspenseful plot filled with unexpected twists.,UK,203681799,Thriller,Paramount Pictures,136
+Ocean Call 20,2002,J. Smith,135,7.9,171468,A suspenseful plot filled with unexpected twists.,Japan,992515912,Thriller,Paramount Pictures,634
+Frozen Whisper 16,2006,M. Brown,96,9.9,426978,A spine-chilling tale that evokes fear and dread.,South Korea,828928865,Horror,Netflix,24
+Eternal Love 17,1985,N. Roy,168,4.4,370579,A suspenseful plot filled with unexpected twists.,Japan,422186480,Thriller,Yash Raj Films,782
+Ocean Call 19,1980,R. Lee,123,5.5,34337,An imaginative world filled with magic and wonder.,UK,523967607,Fantasy,DreamWorks,263
+Midnight Sun 1,1993,A. Khan,162,4.3,50482,A fast-paced thriller with intense action scenes.,Japan,209332417,Action,Yash Raj Films,719
+Crimson Sky 2,2020,M. Brown,89,4.6,487738,An imaginative world filled with magic and wonder.,China,222735463,Fantasy,Warner Bros,707
+Lost World 8,2021,L. Zhang,179,7.7,15429,A spine-chilling tale that evokes fear and dread.,UK,131779818,Horror,Paramount Pictures,898
+Quiet Heart 11,2006,P. Adams,155,4.4,118700,A spine-chilling tale that evokes fear and dread.,South Korea,876664144,Horror,Paramount Pictures,678
+Midnight Sun 15,1988,N. Roy,86,5.3,378137,An imaginative world filled with magic and wonder.,USA,422186480,Fantasy,Amazon Studios,895
+Eternal Love 17,2010,A. Khan,151,8.3,480112,An imaginative world filled with magic and wonder.,India,702334865,Fantasy,Yash Raj Films,27
+City Lights 15,2016,S. Chen,82,5.2,115951,A suspenseful plot filled with unexpected twists.,India,987584706,Thriller,Studio Ghibli,541
+Winds of Fate 9,2008,L. Zhang,168,7.6,319447,A fast-paced thriller with intense action scenes.,China,293340992,Action,Sony Pictures,966
+City Lights 1,2019,D. Patel,169,8.8,227200,A spine-chilling tale that evokes fear and dread.,South Korea,884189814,Horror,Netflix,269
+Midnight Sun 6,1985,D. Patel,154,5,237045,An emotional journey exploring complex characters.,India,69813738,Drama,Pixar,958
+Last Mission 20,2009,J. Smith,127,8.4,145155,A suspenseful plot filled with unexpected twists.,China,861368025,Thriller,Universal Pictures,634
+Lost World 5,2000,A. Khan,145,9.7,7125,A fast-paced thriller with intense action scenes.,India,200330529,Action,Yash Raj Films,751
+Eternal Love 20,1983,T. Johnson,165,9.1,362187,A light-hearted comedy that guarantees laughter.,France,702334865,Comedy,Studio Ghibli,364
+Ocean Call 1,2008,D. Patel,128,4.7,68650,A touching love story with heartwarming moments.,USA,467259847,Romance,Netflix,935
+Broken Truth 2,1997,P. Adams,133,8,294676,A light-hearted comedy that guarantees laughter.,South Korea,681993385,Comedy,Paramount Pictures,839
+Lost World 15,2018,R. Lee,160,4.3,258142,A touching love story with heartwarming moments.,India,488839661,Romance,Netflix,167
+Firestorm 15,1990,T. Johnson,165,5.5,131446,An imaginative world filled with magic and wonder.,UK,708399488,Fantasy,Netflix,666
+Silent Echo 14,1981,N. Roy,131,7.3,348667,An imaginative world filled with magic and wonder.,Japan,850150842,Fantasy,Sony Pictures,10
+Broken Truth 18,2020,M. Brown,104,4.9,112490,An emotional journey exploring complex characters.,UK,561084152,Drama,Pixar,70
+Crimson Sky 9,1998,D. Patel,172,6.9,485322,A touching love story with heartwarming moments.,UK,131779818,Romance,Paramount Pictures,0
+Crimson Sky 14,2014,T. Johnson,159,7,328707,A fast-paced thriller with intense action scenes.,South Korea,561084152,Action,Pixar,517
+Silent Echo 18,2010,S. Chen,107,6.8,428184,A light-hearted comedy that guarantees laughter.,Japan,520071864,Comedy,Studio Ghibli,430
+Lost World 8,1990,J. Smith,176,8.1,88310,A suspenseful plot filled with unexpected twists.,UK,790346988,Thriller,Amazon Studios,740
+Lost World 6,2007,R. Lee,140,8.9,122485,A suspenseful plot filled with unexpected twists.,Japan,907279145,Thriller,Netflix,47
+Crimson Sky 9,2010,N. Roy,80,8.4,131837,A fast-paced thriller with intense action scenes.,USA,685700790,Action,Yash Raj Films,242
+Frozen Whisper 20,2002,J. Smith,117,6.6,37822,An emotional journey exploring complex characters.,UK,561084152,Drama,Netflix,241
+Broken Truth 13,1985,N. Roy,102,6.6,209470,An imaginative world filled with magic and wonder.,South Korea,702334865,Fantasy,DreamWorks,854
+Quiet Heart 1,2010,M. Brown,125,9,203100,A touching love story with heartwarming moments.,India,15596411,Romance,DreamWorks,350
+Lost World 6,1996,L. Zhang,159,7.6,81833,A spine-chilling tale that evokes fear and dread.,France,209332417,Horror,Universal Pictures,896
+Silent Echo 7,1986,D. Patel,146,7,181705,An imaginative world filled with magic and wonder.,India,677884105,Fantasy,Pixar,87
+Quiet Heart 7,1989,M. Brown,83,6.7,296486,A suspenseful plot filled with unexpected twists.,USA,442331054,Thriller,Universal Pictures,211
+Lost World 14,1996,S. Chen,161,4.1,475043,A touching love story with heartwarming moments.,South Korea,467259847,Romance,Paramount Pictures,32
+Winds of Fate 16,1993,D. Patel,88,6.5,13205,An emotional journey exploring complex characters.,Japan,57768258,Drama,Netflix,790
+Winds of Fate 9,1989,M. Brown,155,4.9,128120,A spine-chilling tale that evokes fear and dread.,USA,938492680,Horror,Amazon Studios,152
+Winds of Fate 9,1996,A. Khan,83,9.3,454768,A spine-chilling tale that evokes fear and dread.,Japan,102936598,Horror,Netflix,90
+Frozen Whisper 12,2016,R. Lee,173,4.4,30068,An imaginative world filled with magic and wonder.,Japan,719946753,Fantasy,Pixar,546
+Midnight Sun 3,1993,S. Chen,118,8.1,497964,An emotional journey exploring complex characters.,USA,938492680,Drama,Paramount Pictures,781
+Eternal Love 20,2016,M. Brown,95,8,187510,A suspenseful plot filled with unexpected twists.,UK,907279145,Thriller,DreamWorks,351
+City Lights 10,1986,R. Lee,98,4.2,391222,A touching love story with heartwarming moments.,USA,980966690,Romance,Yash Raj Films,127
+City Lights 11,1996,J. Smith,129,5.3,349477,An imaginative world filled with magic and wonder.,UK,441616339,Fantasy,Pixar,675
+City Lights 2,2023,P. Adams,142,5.5,160447,An emotional journey exploring complex characters.,France,986810260,Drama,Sony Pictures,877
+City Lights 8,1994,J. Smith,101,6.1,69161,An emotional journey exploring complex characters.,UK,222735463,Drama,Netflix,404
+Quiet Heart 19,2012,L. Zhang,138,8.7,118299,An emotional journey exploring complex characters.,France,102936598,Drama,DreamWorks,975
+Silent Echo 13,2006,J. Smith,131,7.6,171950,A spine-chilling tale that evokes fear and dread.,Japan,457546606,Horror,Paramount Pictures,221
+Firestorm 1,1989,L. Zhang,139,9,58448,An emotional journey exploring complex characters.,USA,327722683,Drama,Warner Bros,719
+Ocean Call 18,2002,M. Brown,117,7.7,116158,A suspenseful plot filled with unexpected twists.,Japan,438802491,Thriller,DreamWorks,251
+Eternal Love 16,2019,S. Chen,139,5.4,162077,A suspenseful plot filled with unexpected twists.,UK,57768258,Thriller,Netflix,334
+Crimson Sky 16,2018,P. Adams,103,7,384848,A suspenseful plot filled with unexpected twists.,India,403157039,Thriller,Yash Raj Films,874
+Quiet Heart 17,2017,M. Brown,147,4.4,478049,A fast-paced thriller with intense action scenes.,USA,222735463,Action,Universal Pictures,521
+Broken Truth 3,2022,D. Patel,87,7.5,264519,A spine-chilling tale that evokes fear and dread.,Japan,441616339,Horror,Paramount Pictures,812
+Frozen Whisper 6,2016,R. Lee,87,8.8,234868,A spine-chilling tale that evokes fear and dread.,USA,802121619,Horror,Pixar,227
+Crimson Sky 2,2001,J. Smith,158,9.3,239672,A fast-paced thriller with intense action scenes.,USA,828928865,Action,Sony Pictures,103
+Silent Echo 7,1999,D. Patel,97,6.1,144881,A suspenseful plot filled with unexpected twists.,UK,523967607,Thriller,Universal Pictures,113
+City Lights 7,1997,M. Brown,88,7.5,46651,A spine-chilling tale that evokes fear and dread.,India,102936598,Horror,Universal Pictures,171
+Quiet Heart 9,2017,A. Khan,87,6.5,66357,A suspenseful plot filled with unexpected twists.,USA,884189814,Thriller,Amazon Studios,417
+Ocean Call 8,1992,L. Zhang,109,6.1,337946,A light-hearted comedy that guarantees laughter.,Japan,517251726,Comedy,Universal Pictures,341
+Frozen Whisper 18,1993,N. Roy,134,6.3,381389,A light-hearted comedy that guarantees laughter.,India,938492680,Comedy,Amazon Studios,344
+Firestorm 15,1982,R. Lee,156,4.2,178112,An emotional journey exploring complex characters.,Japan,893361306,Drama,Paramount Pictures,500
+Crimson Sky 8,2011,S. Chen,89,6.2,139558,A suspenseful plot filled with unexpected twists.,USA,347789326,Thriller,DreamWorks,456
+Midnight Sun 8,2008,T. Johnson,96,5.5,398759,A suspenseful plot filled with unexpected twists.,South Korea,610262940,Thriller,Pixar,998
+Last Mission 15,2010,T. Johnson,124,9.1,288889,A touching love story with heartwarming moments.,India,901835692,Romance,DreamWorks,510
+Firestorm 9,1984,J. Smith,131,4.9,85053,A touching love story with heartwarming moments.,South Korea,203681799,Romance,Yash Raj Films,978
+Eternal Love 7,2022,N. Roy,146,7.3,469960,A touching love story with heartwarming moments.,USA,980966690,Romance,Pixar,453
+Ocean Call 17,2020,T. Johnson,90,6.2,494484,A suspenseful plot filled with unexpected twists.,Japan,457546606,Thriller,Pixar,47
+Eternal Love 9,1986,D. Patel,98,6,224856,An emotional journey exploring complex characters.,Japan,907279145,Drama,DreamWorks,994
+Last Mission 20,2011,M. Brown,150,5.2,143274,A fast-paced thriller with intense action scenes.,USA,131779818,Action,Paramount Pictures,685
+Crimson Sky 20,2007,J. Smith,108,4.6,179936,A suspenseful plot filled with unexpected twists.,South Korea,222735463,Thriller,Sony Pictures,467
+Broken Truth 7,2003,S. Chen,163,8,159985,An imaginative world filled with magic and wonder.,India,781897900,Fantasy,Yash Raj Films,971
+City Lights 17,2017,M. Brown,169,9.2,106414,A touching love story with heartwarming moments.,Japan,347695657,Romance,Warner Bros,52
+Winds of Fate 5,2017,N. Roy,156,5.1,491356,An imaginative world filled with magic and wonder.,India,520071864,Fantasy,Yash Raj Films,578
+Frozen Whisper 2,1999,J. Smith,120,5.2,405090,An imaginative world filled with magic and wonder.,China,293340992,Fantasy,Yash Raj Films,339
+Firestorm 3,2022,A. Khan,94,9.6,340134,An imaginative world filled with magic and wonder.,France,541925389,Fantasy,Paramount Pictures,609
+Lost World 3,1982,R. Lee,105,7,195743,A suspenseful plot filled with unexpected twists.,UK,403157039,Thriller,Sony Pictures,328
+Eternal Love 15,1986,T. Johnson,144,8.1,353237,A light-hearted comedy that guarantees laughter.,Japan,209332417,Comedy,Universal Pictures,29
+Silent Echo 16,2005,R. Lee,170,5.9,280489,An imaginative world filled with magic and wonder.,USA,438802491,Fantasy,Amazon Studios,860
+Eternal Love 12,2021,J. Smith,124,4.8,472385,An emotional journey exploring complex characters.,UK,403157039,Drama,Paramount Pictures,934
+Midnight Sun 5,2012,P. Adams,149,5.1,17933,A fast-paced thriller with intense action scenes.,France,60247754,Action,Pixar,554
+Lost World 10,2004,T. Johnson,119,8.5,3526,An imaginative world filled with magic and wonder.,France,57768258,Fantasy,Studio Ghibli,590
+Frozen Whisper 11,2019,N. Roy,180,9.3,396065,A light-hearted comedy that guarantees laughter.,UK,535226842,Comedy,Studio Ghibli,854
+Last Mission 19,2016,R. Lee,166,6.5,295727,A suspenseful plot filled with unexpected twists.,UK,54691318,Thriller,Pixar,145
+Quiet Heart 18,2012,M. Brown,148,6.2,423042,A touching love story with heartwarming moments.,Japan,400204169,Romance,Amazon Studios,176
+Crimson Sky 12,1986,D. Patel,179,8.7,232657,A spine-chilling tale that evokes fear and dread.,USA,685700790,Horror,Universal Pictures,430
+Lost World 3,1983,M. Brown,135,9,38738,A light-hearted comedy that guarantees laughter.,India,861827371,Comedy,Pixar,947
+Last Mission 3,2019,R. Lee,149,7.6,242227,A fast-paced thriller with intense action scenes.,Japan,781897900,Action,Amazon Studios,147
+City Lights 1,2002,D. Patel,87,4.1,9246,A fast-paced thriller with intense action scenes.,USA,765377261,Action,Amazon Studios,66
+Silent Echo 13,2001,J. Smith,102,7.9,246138,An imaginative world filled with magic and wonder.,USA,141161575,Fantasy,DreamWorks,70
+Quiet Heart 13,2013,S. Chen,140,4.7,40719,A touching love story with heartwarming moments.,UK,501027941,Romance,Universal Pictures,915
+Firestorm 19,1993,P. Adams,115,4.9,335768,A fast-paced thriller with intense action scenes.,India,699675237,Action,Amazon Studios,862
+Crimson Sky 3,1998,L. Zhang,83,8.8,46069,A light-hearted comedy that guarantees laughter.,South Korea,375136716,Comedy,DreamWorks,4
+Midnight Sun 18,2000,N. Roy,81,5.2,341281,An imaginative world filled with magic and wonder.,USA,683354661,Fantasy,Studio Ghibli,105
+Winds of Fate 6,2012,A. Khan,113,5.4,474174,A light-hearted comedy that guarantees laughter.,Japan,342083924,Comedy,DreamWorks,279
+Broken Truth 6,2011,N. Roy,143,7.2,279632,An emotional journey exploring complex characters.,Japan,209332417,Drama,Sony Pictures,276
+Quiet Heart 2,1992,T. Johnson,170,6.4,68502,A light-hearted comedy that guarantees laughter.,UK,3291117,Comedy,Studio Ghibli,874
+Broken Truth 1,2008,R. Lee,180,7.4,29132,A touching love story with heartwarming moments.,South Korea,438802491,Romance,Universal Pictures,901
+Firestorm 18,2006,N. Roy,80,9.4,48639,An imaginative world filled with magic and wonder.,Japan,54691318,Fantasy,Warner Bros,746
+Last Mission 16,2006,D. Patel,156,5.8,197322,A touching love story with heartwarming moments.,France,765377261,Romance,Yash Raj Films,962
+City Lights 16,2014,M. Brown,91,4.4,207615,A spine-chilling tale that evokes fear and dread.,UK,400204169,Horror,Amazon Studios,898
+Eternal Love 18,1990,D. Patel,111,6.6,188533,A spine-chilling tale that evokes fear and dread.,South Korea,203681799,Horror,Studio Ghibli,539
+Frozen Whisper 17,1998,R. Lee,101,4.9,310386,A suspenseful plot filled with unexpected twists.,France,477372302,Thriller,Universal Pictures,942
+Firestorm 2,2012,N. Roy,146,4.4,489107,A suspenseful plot filled with unexpected twists.,France,986987570,Thriller,Amazon Studios,140
+Last Mission 3,2012,M. Brown,140,6.3,295677,A light-hearted comedy that guarantees laughter.,South Korea,526015669,Comedy,DreamWorks,936
+Frozen Whisper 5,1993,N. Roy,118,4.4,215703,A suspenseful plot filled with unexpected twists.,Japan,441616339,Thriller,Pixar,596
+Lost World 7,1980,L. Zhang,117,6.7,251252,A light-hearted comedy that guarantees laughter.,USA,746757001,Comedy,Yash Raj Films,338
+Eternal Love 14,2000,R. Lee,145,6.6,57100,A touching love story with heartwarming moments.,UK,986987570,Romance,DreamWorks,23
+Broken Truth 16,2010,N. Roy,89,6.4,157631,An emotional journey exploring complex characters.,India,89228499,Drama,Amazon Studios,2
+Lost World 2,1983,D. Patel,81,4.7,169319,An imaginative world filled with magic and wonder.,South Korea,770412921,Fantasy,Netflix,870
+Firestorm 2,2003,D. Patel,165,9.1,86039,A fast-paced thriller with intense action scenes.,South Korea,876664144,Action,Pixar,50
+Firestorm 12,2014,P. Adams,102,4,252014,A light-hearted comedy that guarantees laughter.,UK,821037985,Comedy,Netflix,726
+Midnight Sun 4,2000,N. Roy,133,6.7,165406,A touching love story with heartwarming moments.,Japan,225526871,Romance,Warner Bros,226
+Lost World 14,2000,N. Roy,166,4.2,341612,A light-hearted comedy that guarantees laughter.,South Korea,781897900,Comedy,Pixar,70
+Firestorm 3,2020,S. Chen,109,8.2,261408,A fast-paced thriller with intense action scenes.,India,541925389,Action,Netflix,94
+Quiet Heart 18,1999,R. Lee,155,7.4,223654,A spine-chilling tale that evokes fear and dread.,Japan,151877813,Horror,DreamWorks,995
+Silent Echo 8,1997,D. Patel,115,5.6,209851,A fast-paced thriller with intense action scenes.,China,248390657,Action,Sony Pictures,517
+Ocean Call 5,1987,R. Lee,107,4.4,163969,A touching love story with heartwarming moments.,India,259032858,Romance,Amazon Studios,106
+Broken Truth 11,2004,S. Chen,111,4.4,404443,A light-hearted comedy that guarantees laughter.,France,739437378,Comedy,Warner Bros,956
+Ocean Call 18,2011,L. Zhang,149,5.1,228341,An emotional journey exploring complex characters.,India,438802491,Drama,Netflix,946
+Last Mission 15,2002,S. Chen,100,5.6,252349,A suspenseful plot filled with unexpected twists.,USA,876664144,Thriller,Studio Ghibli,385
+Lost World 12,2004,D. Patel,129,5.1,449234,A suspenseful plot filled with unexpected twists.,South Korea,60247754,Thriller,Amazon Studios,849
+Ocean Call 18,2010,R. Lee,126,7.1,281728,A fast-paced thriller with intense action scenes.,South Korea,850150842,Action,Pixar,613
+Midnight Sun 16,2017,R. Lee,108,8,481650,A touching love story with heartwarming moments.,Japan,206472368,Romance,Yash Raj Films,356
+Frozen Whisper 6,2004,J. Smith,165,4.3,206472,An emotional journey exploring complex characters.,USA,375136716,Drama,Pixar,831
+Firestorm 12,1997,P. Adams,88,4.6,369591,A light-hearted comedy that guarantees laughter.,UK,400204169,Comedy,Universal Pictures,196
+Frozen Whisper 7,2020,R. Lee,92,7,204173,A spine-chilling tale that evokes fear and dread.,South Korea,57768258,Horror,Paramount Pictures,235
+Firestorm 14,1981,L. Zhang,155,6.1,4796,A fast-paced thriller with intense action scenes.,South Korea,699675237,Action,Sony Pictures,234
+Last Mission 3,2007,N. Roy,129,8.3,130924,A suspenseful plot filled with unexpected twists.,South Korea,893361306,Thriller,Netflix,18
+Quiet Heart 1,1993,N. Roy,80,4,468250,An imaginative world filled with magic and wonder.,Japan,861368025,Fantasy,Amazon Studios,652
+Silent Echo 15,2001,N. Roy,159,9.7,348172,A light-hearted comedy that guarantees laughter.,USA,131779818,Comedy,Yash Raj Films,42
+Frozen Whisper 13,2017,J. Smith,128,9.1,167204,An emotional journey exploring complex characters.,India,441616339,Drama,Pixar,931
+Ocean Call 9,1995,T. Johnson,120,5.6,141842,An emotional journey exploring complex characters.,USA,907279145,Drama,Amazon Studios,336
+Last Mission 16,2014,N. Roy,156,6.5,6082,A spine-chilling tale that evokes fear and dread.,USA,520071864,Horror,Yash Raj Films,739
+Ocean Call 12,1994,J. Smith,83,5.9,222089,A light-hearted comedy that guarantees laughter.,UK,327722683,Comedy,Sony Pictures,731
+Frozen Whisper 3,1984,J. Smith,112,7.4,362959,An emotional journey exploring complex characters.,India,541925389,Drama,Sony Pictures,953
+Quiet Heart 14,1998,N. Roy,85,6.1,24950,A spine-chilling tale that evokes fear and dread.,UK,438802491,Horror,Warner Bros,765
+Firestorm 3,2015,S. Chen,142,7.7,200934,An emotional journey exploring complex characters.,France,986987570,Drama,Amazon Studios,732
+Midnight Sun 2,1985,M. Brown,108,4.5,290722,A light-hearted comedy that guarantees laughter.,USA,535226842,Comedy,Paramount Pictures,7
+Broken Truth 5,2010,P. Adams,133,4.3,220918,A touching love story with heartwarming moments.,Japan,342083924,Romance,Amazon Studios,670
+Ocean Call 7,2001,P. Adams,175,4.7,477233,A fast-paced thriller with intense action scenes.,India,739437378,Action,DreamWorks,366
+Winds of Fate 13,1986,A. Khan,90,6.1,26836,A touching love story with heartwarming moments.,UK,702334865,Romance,Amazon Studios,577
+Broken Truth 6,2022,A. Khan,90,7.9,333178,A suspenseful plot filled with unexpected twists.,France,861827371,Thriller,Pixar,708
+Broken Truth 17,2023,L. Zhang,104,9.3,237066,A spine-chilling tale that evokes fear and dread.,USA,702334865,Horror,DreamWorks,789
+Silent Echo 1,2011,T. Johnson,95,6.3,12036,An imaginative world filled with magic and wonder.,China,477372302,Fantasy,Paramount Pictures,486
+Eternal Love 8,2008,M. Brown,179,5.4,115528,A light-hearted comedy that guarantees laughter.,India,203681799,Comedy,Warner Bros,43
+Crimson Sky 18,2004,J. Smith,125,6.7,497426,A suspenseful plot filled with unexpected twists.,France,347695657,Thriller,Sony Pictures,176
+Ocean Call 12,2009,D. Patel,153,4.1,493804,An imaginative world filled with magic and wonder.,France,203681799,Fantasy,Warner Bros,913
+Crimson Sky 13,1987,S. Chen,157,6.1,115014,A fast-paced thriller with intense action scenes.,Japan,69813738,Action,Studio Ghibli,174
+Firestorm 12,1980,M. Brown,154,7.2,446118,A fast-paced thriller with intense action scenes.,India,293340992,Action,Pixar,890
+Lost World 15,1984,S. Chen,92,4.2,171689,An emotional journey exploring complex characters.,Japan,856605219,Drama,Amazon Studios,631
+Ocean Call 11,1998,P. Adams,114,8.2,90781,A touching love story with heartwarming moments.,Japan,465759764,Romance,DreamWorks,380
+Firestorm 2,2018,M. Brown,117,8.4,152126,A touching love story with heartwarming moments.,UK,151877813,Romance,DreamWorks,219
+Lost World 2,2009,J. Smith,126,6.8,330875,An emotional journey exploring complex characters.,China,293340992,Drama,Universal Pictures,455
+Lost World 2,2013,M. Brown,162,5.4,351851,A fast-paced thriller with intense action scenes.,UK,438802491,Action,Universal Pictures,967
+Eternal Love 15,2009,M. Brown,146,9.5,362282,An emotional journey exploring complex characters.,UK,222735463,Drama,Warner Bros,728
+Eternal Love 5,2005,S. Chen,160,8.4,263006,A fast-paced thriller with intense action scenes.,India,347695657,Action,Netflix,394
+Broken Truth 10,1995,T. Johnson,153,7,399084,A fast-paced thriller with intense action scenes.,India,222735463,Action,Universal Pictures,871
+Crimson Sky 17,2002,D. Patel,171,5.5,400401,An emotional journey exploring complex characters.,USA,69813738,Drama,Amazon Studios,964
+Firestorm 8,1993,R. Lee,138,9.6,305708,A light-hearted comedy that guarantees laughter.,Japan,815292816,Comedy,Amazon Studios,138
+Last Mission 16,1996,A. Khan,80,5.3,239535,An imaginative world filled with magic and wonder.,India,375136716,Fantasy,Netflix,137
+Midnight Sun 15,1983,S. Chen,108,4.8,253825,A touching love story with heartwarming moments.,UK,681993385,Romance,Paramount Pictures,472
+Quiet Heart 10,2001,J. Smith,173,6.6,288546,An imaginative world filled with magic and wonder.,UK,523967607,Fantasy,DreamWorks,420
+Silent Echo 19,1997,S. Chen,166,9.4,11517,A spine-chilling tale that evokes fear and dread.,Japan,327722683,Horror,Studio Ghibli,135
+Frozen Whisper 11,1988,J. Smith,128,4.9,348003,A light-hearted comedy that guarantees laughter.,India,702334865,Comedy,Sony Pictures,564
+Midnight Sun 8,1987,M. Brown,138,9.8,177591,A fast-paced thriller with intense action scenes.,China,702334865,Action,Netflix,856
+Quiet Heart 8,2022,N. Roy,111,8.1,7823,A fast-paced thriller with intense action scenes.,France,938492680,Action,Studio Ghibli,569
+Lost World 10,1986,D. Patel,89,4.1,264257,A touching love story with heartwarming moments.,France,206472368,Romance,Netflix,630
+Firestorm 8,2021,T. Johnson,140,4.3,256745,A fast-paced thriller with intense action scenes.,Japan,523967607,Action,Yash Raj Films,136
+Frozen Whisper 11,1993,P. Adams,177,4.6,264806,An emotional journey exploring complex characters.,Japan,141161575,Drama,Pixar,141
+Firestorm 16,2021,R. Lee,157,6,149005,A suspenseful plot filled with unexpected twists.,UK,222735463,Thriller,Sony Pictures,50
+Crimson Sky 4,1983,R. Lee,94,4.7,204425,An emotional journey exploring complex characters.,China,520071864,Drama,Netflix,976
+Ocean Call 13,2006,J. Smith,135,4,323628,A light-hearted comedy that guarantees laughter.,UK,382356382,Comedy,Pixar,32
+Ocean Call 1,2009,M. Brown,147,7.8,96890,A spine-chilling tale that evokes fear and dread.,France,206472368,Horror,Netflix,727
+Last Mission 20,2022,L. Zhang,171,7.3,194409,A light-hearted comedy that guarantees laughter.,India,342083924,Comedy,Pixar,693
+Last Mission 19,1997,R. Lee,180,9.1,461667,A fast-paced thriller with intense action scenes.,Japan,867614592,Action,Netflix,742
+Crimson Sky 16,2014,M. Brown,158,9,173353,A touching love story with heartwarming moments.,India,203681799,Romance,Warner Bros,172
+Eternal Love 19,1994,P. Adams,158,4.9,63199,An emotional journey exploring complex characters.,France,561084152,Drama,Universal Pictures,478
+Ocean Call 10,2014,R. Lee,94,9.7,73969,A fast-paced thriller with intense action scenes.,India,222735463,Action,Universal Pictures,466
+Eternal Love 4,2009,A. Khan,124,4.5,100153,A suspenseful plot filled with unexpected twists.,USA,535226842,Thriller,Netflix,931
+City Lights 9,1990,P. Adams,94,5.7,223136,A fast-paced thriller with intense action scenes.,UK,746757001,Action,Warner Bros,567
+Winds of Fate 3,1986,J. Smith,89,4,184043,An imaginative world filled with magic and wonder.,USA,465759764,Fantasy,DreamWorks,345
+Broken Truth 7,1997,R. Lee,144,4.9,179742,A fast-paced thriller with intense action scenes.,India,702334865,Action,Netflix,703
+Eternal Love 16,1988,A. Khan,142,9.4,355779,A fast-paced thriller with intense action scenes.,USA,739437378,Action,DreamWorks,779
+City Lights 4,1980,L. Zhang,127,8,43641,A suspenseful plot filled with unexpected twists.,India,235719390,Thriller,Pixar,66
+Eternal Love 19,2021,M. Brown,145,6.9,39447,An imaginative world filled with magic and wonder.,USA,203681799,Fantasy,Pixar,202
+Silent Echo 14,2004,N. Roy,146,6.2,141505,An imaginative world filled with magic and wonder.,UK,644766502,Fantasy,DreamWorks,71
+Winds of Fate 19,2000,L. Zhang,175,9.5,191161,An imaginative world filled with magic and wonder.,India,441616339,Fantasy,Studio Ghibli,978
+City Lights 3,2000,R. Lee,176,5.9,365793,A fast-paced thriller with intense action scenes.,South Korea,428612829,Action,Studio Ghibli,390
+Winds of Fate 8,2008,M. Brown,106,5.6,202111,A touching love story with heartwarming moments.,China,488839661,Romance,Paramount Pictures,758
+Eternal Love 9,1981,L. Zhang,167,6.6,490239,An emotional journey exploring complex characters.,France,770412921,Drama,Studio Ghibli,347
+Last Mission 16,2006,L. Zhang,94,5.1,289344,An emotional journey exploring complex characters.,Japan,986810260,Drama,DreamWorks,232
+Last Mission 19,1998,A. Khan,160,5.5,168438,A light-hearted comedy that guarantees laughter.,Japan,442331054,Comedy,Amazon Studios,371
+Winds of Fate 14,1995,P. Adams,164,4.7,330512,A spine-chilling tale that evokes fear and dread.,USA,467259847,Horror,Pixar,173
+Quiet Heart 15,1987,A. Khan,153,9.2,440637,A light-hearted comedy that guarantees laughter.,Japan,69813738,Comedy,Netflix,510
+Broken Truth 1,2002,M. Brown,84,5.4,273303,An imaginative world filled with magic and wonder.,South Korea,938492680,Fantasy,Universal Pictures,479
+Broken Truth 6,2005,J. Smith,113,9.4,112156,A suspenseful plot filled with unexpected twists.,South Korea,206472368,Thriller,Universal Pictures,841
+Ocean Call 16,1983,L. Zhang,147,5.8,127266,An emotional journey exploring complex characters.,France,957562425,Drama,Pixar,338
+Crimson Sky 17,2009,P. Adams,132,7.7,189183,A spine-chilling tale that evokes fear and dread.,China,98944654,Horror,Yash Raj Films,712
+Silent Echo 12,1982,T. Johnson,152,6.3,11282,A spine-chilling tale that evokes fear and dread.,China,821037985,Horror,Yash Raj Films,488
+Silent Echo 17,2012,L. Zhang,91,4.7,172325,An emotional journey exploring complex characters.,Japan,708399488,Drama,Paramount Pictures,522
+City Lights 16,1995,P. Adams,168,6.7,310676,A spine-chilling tale that evokes fear and dread.,USA,517251726,Horror,Studio Ghibli,378
+Quiet Heart 10,2014,M. Brown,95,9.5,488831,A touching love story with heartwarming moments.,China,209332417,Romance,Universal Pictures,803
+Frozen Whisper 13,1999,N. Roy,101,6.3,133099,A touching love story with heartwarming moments.,UK,457546606,Romance,Warner Bros,797
+Lost World 18,1983,P. Adams,127,8.3,114503,A suspenseful plot filled with unexpected twists.,Japan,15596411,Thriller,Universal Pictures,815
+Lost World 9,2017,A. Khan,156,5.9,2686,A spine-chilling tale that evokes fear and dread.,USA,400204169,Horror,Yash Raj Films,491
+Winds of Fate 12,2011,N. Roy,172,7.7,383175,An imaginative world filled with magic and wonder.,USA,510997252,Fantasy,Studio Ghibli,634
+Midnight Sun 3,2018,J. Smith,99,6.7,425215,A touching love story with heartwarming moments.,France,867614592,Romance,Pixar,521
+Crimson Sky 15,2001,R. Lee,91,6.3,154500,An emotional journey exploring complex characters.,China,957562425,Drama,Universal Pictures,588
+Firestorm 11,1993,P. Adams,135,4.5,70146,An imaginative world filled with magic and wonder.,Japan,980966690,Fantasy,Paramount Pictures,477
+Eternal Love 6,2012,M. Brown,145,9.3,408362,A light-hearted comedy that guarantees laughter.,Japan,438802491,Comedy,DreamWorks,50
+City Lights 18,2005,N. Roy,93,6.8,238380,A touching love story with heartwarming moments.,USA,414108018,Romance,Sony Pictures,609
+City Lights 7,2002,A. Khan,159,9.5,300773,A suspenseful plot filled with unexpected twists.,UK,815292816,Thriller,DreamWorks,997
+Silent Echo 19,2023,P. Adams,98,8,249737,A light-hearted comedy that guarantees laughter.,USA,457546606,Comedy,Yash Raj Films,971
+Lost World 1,1995,J. Smith,176,4,295773,An imaginative world filled with magic and wonder.,UK,293340992,Fantasy,Paramount Pictures,803
+Quiet Heart 14,2022,P. Adams,95,5.6,261358,A suspenseful plot filled with unexpected twists.,South Korea,465759764,Thriller,Paramount Pictures,466
+Silent Echo 3,1999,T. Johnson,108,5.7,164285,A light-hearted comedy that guarantees laughter.,France,422186480,Comedy,Paramount Pictures,770
+Broken Truth 10,1991,M. Brown,105,7.6,49099,A spine-chilling tale that evokes fear and dread.,UK,765377261,Horror,Warner Bros,44
+Ocean Call 4,2009,S. Chen,117,6,450365,A light-hearted comedy that guarantees laughter.,USA,986810260,Comedy,Universal Pictures,459
+Broken Truth 3,1992,L. Zhang,136,7.3,494115,An imaginative world filled with magic and wonder.,India,403157039,Fantasy,Studio Ghibli,507
+Winds of Fate 7,1989,L. Zhang,87,8.4,34963,A fast-paced thriller with intense action scenes.,India,708399488,Action,Paramount Pictures,582
+Quiet Heart 19,2008,D. Patel,130,6.5,390751,A spine-chilling tale that evokes fear and dread.,Japan,209332417,Horror,Pixar,286
+Midnight Sun 12,2018,P. Adams,118,4.1,90742,A light-hearted comedy that guarantees laughter.,USA,438802491,Comedy,Studio Ghibli,226
+Eternal Love 3,2001,S. Chen,104,8.1,117475,A suspenseful plot filled with unexpected twists.,USA,441616339,Thriller,Studio Ghibli,1000
+Eternal Love 9,1995,T. Johnson,86,9.6,480084,A suspenseful plot filled with unexpected twists.,USA,15596411,Thriller,Netflix,317
+Lost World 18,1984,J. Smith,133,6.4,308471,An emotional journey exploring complex characters.,USA,523967607,Drama,Paramount Pictures,443
+Winds of Fate 6,1985,P. Adams,148,8.1,22150,An emotional journey exploring complex characters.,China,781897900,Drama,Paramount Pictures,413
+Firestorm 3,2022,J. Smith,172,5,192264,An imaginative world filled with magic and wonder.,USA,438802491,Fantasy,Sony Pictures,978
+Firestorm 2,1984,P. Adams,123,4.8,348741,An imaginative world filled with magic and wonder.,India,438802491,Fantasy,Yash Raj Films,108
+Eternal Love 17,2006,M. Brown,84,4.4,332773,A spine-chilling tale that evokes fear and dread.,China,520071864,Horror,Warner Bros,236
+Winds of Fate 11,1996,S. Chen,145,6.1,264825,An imaginative world filled with magic and wonder.,UK,438802491,Fantasy,Warner Bros,196
+Quiet Heart 5,1996,T. Johnson,122,4.3,447756,A fast-paced thriller with intense action scenes.,South Korea,465759764,Action,Universal Pictures,112
+Silent Echo 4,1998,J. Smith,173,6.2,76829,A suspenseful plot filled with unexpected twists.,USA,342083924,Thriller,Warner Bros,947
+Crimson Sky 2,2001,T. Johnson,106,7.4,484841,An emotional journey exploring complex characters.,USA,510997252,Drama,Pixar,475
+Last Mission 19,2006,A. Khan,96,6.4,273285,A spine-chilling tale that evokes fear and dread.,France,850150842,Horror,DreamWorks,157
+Crimson Sky 2,2006,S. Chen,165,5.1,12324,An emotional journey exploring complex characters.,South Korea,151877813,Drama,Netflix,102
+Last Mission 2,2006,N. Roy,127,4.6,324070,An emotional journey exploring complex characters.,France,441616339,Drama,DreamWorks,33
+City Lights 15,2023,M. Brown,175,9.1,377221,An imaginative world filled with magic and wonder.,USA,768848737,Fantasy,Yash Raj Films,920
+Quiet Heart 14,2012,A. Khan,140,5.7,482860,An imaginative world filled with magic and wonder.,USA,739437378,Fantasy,Warner Bros,394
+City Lights 11,2019,T. Johnson,98,7.2,447826,A spine-chilling tale that evokes fear and dread.,UK,677884105,Horror,Studio Ghibli,52
+Silent Echo 14,1995,N. Roy,153,9.8,163428,A touching love story with heartwarming moments.,UK,746757001,Romance,Studio Ghibli,943
+Crimson Sky 17,1994,R. Lee,167,7.5,292210,A suspenseful plot filled with unexpected twists.,Japan,403157039,Thriller,Studio Ghibli,241
+City Lights 1,2008,R. Lee,179,7.6,35414,A suspenseful plot filled with unexpected twists.,France,856605219,Thriller,Pixar,856
+Ocean Call 7,1998,A. Khan,159,8.1,219317,A spine-chilling tale that evokes fear and dread.,India,248390657,Horror,DreamWorks,838
+Lost World 17,1998,M. Brown,105,8,127667,A spine-chilling tale that evokes fear and dread.,India,131779818,Horror,DreamWorks,889
+Lost World 19,2015,S. Chen,133,6.4,323133,A suspenseful plot filled with unexpected twists.,Japan,526015669,Thriller,Yash Raj Films,209
+City Lights 1,1992,L. Zhang,176,5.3,71167,A suspenseful plot filled with unexpected twists.,China,21778670,Thriller,Pixar,557
+Ocean Call 9,2012,M. Brown,100,8.5,123190,A suspenseful plot filled with unexpected twists.,UK,980966690,Thriller,Pixar,619
+Firestorm 5,2022,M. Brown,125,6.9,175544,A light-hearted comedy that guarantees laughter.,Japan,347789326,Comedy,Netflix,309
+Broken Truth 16,1997,R. Lee,153,7.3,401138,A touching love story with heartwarming moments.,France,422898206,Romance,DreamWorks,513
+Lost World 5,2016,M. Brown,92,8.8,204624,A light-hearted comedy that guarantees laughter.,Japan,802121619,Comedy,Universal Pictures,14
+Silent Echo 12,1993,L. Zhang,134,7.5,445534,A spine-chilling tale that evokes fear and dread.,USA,403157039,Horror,Amazon Studios,645
+Firestorm 13,2017,A. Khan,126,5.7,105576,An imaginative world filled with magic and wonder.,USA,60247754,Fantasy,Studio Ghibli,694
+Quiet Heart 15,1984,L. Zhang,81,8.2,88442,A light-hearted comedy that guarantees laughter.,UK,327722683,Comedy,Amazon Studios,48
+Firestorm 12,2003,L. Zhang,160,5.4,108990,A light-hearted comedy that guarantees laughter.,USA,901835692,Comedy,Netflix,259
+City Lights 1,1998,T. Johnson,113,6.3,54079,A suspenseful plot filled with unexpected twists.,USA,802121619,Thriller,Universal Pictures,367
+Winds of Fate 9,2000,J. Smith,84,7.4,491878,A touching love story with heartwarming moments.,China,719946753,Romance,Studio Ghibli,257
+Broken Truth 8,2004,D. Patel,132,5.8,134285,An emotional journey exploring complex characters.,South Korea,683354661,Drama,Universal Pictures,674
+Quiet Heart 18,2021,T. Johnson,169,4.2,262556,A light-hearted comedy that guarantees laughter.,USA,457546606,Comedy,Netflix,73
+Silent Echo 11,2016,J. Smith,89,4.6,13371,A spine-chilling tale that evokes fear and dread.,India,524169054,Horror,Paramount Pictures,287
+Silent Echo 16,2010,R. Lee,169,8.1,446662,A light-hearted comedy that guarantees laughter.,India,501027941,Comedy,Amazon Studios,124
+Eternal Love 18,2022,D. Patel,145,9,434030,An emotional journey exploring complex characters.,USA,508710780,Drama,Sony Pictures,973
+Eternal Love 4,1985,A. Khan,122,4.5,229304,A light-hearted comedy that guarantees laughter.,UK,765377261,Comedy,Amazon Studios,282
+Eternal Love 2,1995,N. Roy,129,4.5,52634,A fast-paced thriller with intense action scenes.,France,828928865,Action,Netflix,630
+City Lights 12,2011,N. Roy,110,4.6,444352,A light-hearted comedy that guarantees laughter.,France,901835692,Comedy,Pixar,182
+Lost World 11,1998,P. Adams,154,9.1,298668,A spine-chilling tale that evokes fear and dread.,Japan,438802491,Horror,Sony Pictures,105
+Frozen Whisper 12,1984,N. Roy,157,6,360070,A light-hearted comedy that guarantees laughter.,UK,41837519,Comedy,Paramount Pictures,439
+Frozen Whisper 8,1990,L. Zhang,162,4.9,412001,A light-hearted comedy that guarantees laughter.,France,739437378,Comedy,Universal Pictures,255
+Quiet Heart 20,2006,D. Patel,150,4.9,310791,An emotional journey exploring complex characters.,USA,876664144,Drama,Paramount Pictures,856
+Broken Truth 3,1997,L. Zhang,180,9.6,486938,A fast-paced thriller with intense action scenes.,France,457546606,Action,Universal Pictures,775
+Frozen Whisper 17,1986,A. Khan,141,6.7,192586,An emotional journey exploring complex characters.,China,225526871,Drama,Studio Ghibli,206
+Lost World 3,2002,R. Lee,148,4.4,355079,A suspenseful plot filled with unexpected twists.,Japan,517251726,Thriller,Sony Pictures,357
+Broken Truth 20,1994,N. Roy,93,4.8,109227,A spine-chilling tale that evokes fear and dread.,India,41837519,Horror,Paramount Pictures,410
+Crimson Sky 3,2006,N. Roy,134,7,256877,An imaginative world filled with magic and wonder.,UK,685700790,Fantasy,Pixar,823
+Winds of Fate 3,2023,N. Roy,111,6.3,226964,A fast-paced thriller with intense action scenes.,India,151877813,Action,Universal Pictures,331
+Ocean Call 5,2001,N. Roy,107,4.3,398142,A fast-paced thriller with intense action scenes.,South Korea,524683816,Action,Sony Pictures,12
+Winds of Fate 12,1991,T. Johnson,140,8.4,108046,A spine-chilling tale that evokes fear and dread.,UK,677884105,Horror,Paramount Pictures,418
+Frozen Whisper 10,1981,L. Zhang,143,4.9,238371,A light-hearted comedy that guarantees laughter.,South Korea,535226842,Comedy,Amazon Studios,617
+Winds of Fate 20,2014,N. Roy,119,5,388214,A suspenseful plot filled with unexpected twists.,UK,610262940,Thriller,Netflix,951
+Silent Echo 12,1995,A. Khan,167,9.1,419732,A suspenseful plot filled with unexpected twists.,Japan,524683816,Thriller,Paramount Pictures,498
+Crimson Sky 5,1993,R. Lee,95,5.3,121825,An imaginative world filled with magic and wonder.,UK,382356382,Fantasy,Yash Raj Films,478
+Lost World 17,1982,A. Khan,89,4.5,98521,A light-hearted comedy that guarantees laughter.,South Korea,821037985,Comedy,Paramount Pictures,493
+Eternal Love 5,1990,J. Smith,169,4.3,414099,A touching love story with heartwarming moments.,India,719946753,Romance,Paramount Pictures,365
+Winds of Fate 3,2016,L. Zhang,124,5.1,39707,A touching love story with heartwarming moments.,South Korea,861368025,Romance,Amazon Studios,686
+Silent Echo 10,2008,J. Smith,177,4.7,201339,A light-hearted comedy that guarantees laughter.,South Korea,452570078,Comedy,Amazon Studios,22
+Broken Truth 14,1981,A. Khan,100,5.8,107246,A spine-chilling tale that evokes fear and dread.,USA,206472368,Horror,DreamWorks,845
+Eternal Love 15,1993,J. Smith,127,4.7,386817,A light-hearted comedy that guarantees laughter.,South Korea,802121619,Comedy,Paramount Pictures,931
+City Lights 1,2020,R. Lee,93,9,431561,An emotional journey exploring complex characters.,India,739437378,Drama,DreamWorks,618
+Firestorm 10,1986,J. Smith,108,7.4,372307,A suspenseful plot filled with unexpected twists.,UK,235719390,Thriller,Netflix,561
+Lost World 6,1985,D. Patel,149,9.6,17622,A light-hearted comedy that guarantees laughter.,China,293340992,Comedy,Warner Bros,3
+Silent Echo 17,1993,T. Johnson,162,9.6,247419,An emotional journey exploring complex characters.,South Korea,677884105,Drama,Yash Raj Films,555
+Lost World 7,1999,P. Adams,89,6.6,185261,A suspenseful plot filled with unexpected twists.,Japan,457546606,Thriller,Universal Pictures,890
+Lost World 4,1983,M. Brown,109,9.6,303596,A suspenseful plot filled with unexpected twists.,UK,209332417,Thriller,Yash Raj Films,443
+Broken Truth 5,1984,S. Chen,106,5.7,479547,A spine-chilling tale that evokes fear and dread.,France,907279145,Horror,Yash Raj Films,928
+Winds of Fate 18,2000,J. Smith,82,4.5,127784,An emotional journey exploring complex characters.,Japan,235719390,Drama,Sony Pictures,493
+Last Mission 17,1983,T. Johnson,118,8.7,375207,A spine-chilling tale that evokes fear and dread.,South Korea,802121619,Horror,Warner Bros,928
+Firestorm 4,2011,R. Lee,98,7.2,279752,A light-hearted comedy that guarantees laughter.,India,876664144,Comedy,Universal Pictures,823
+Midnight Sun 6,1984,J. Smith,145,9.9,315795,A suspenseful plot filled with unexpected twists.,France,342083924,Thriller,Pixar,216
+Eternal Love 12,2023,R. Lee,114,9.8,139679,An emotional journey exploring complex characters.,India,347695657,Drama,Netflix,496
+Broken Truth 2,2001,S. Chen,108,9.6,163168,A fast-paced thriller with intense action scenes.,South Korea,517251726,Action,Netflix,325
+Winds of Fate 3,2003,R. Lee,180,7.6,451203,A spine-chilling tale that evokes fear and dread.,China,739437378,Horror,Netflix,589
+Lost World 5,2011,P. Adams,115,7.6,11140,A spine-chilling tale that evokes fear and dread.,USA,57768258,Horror,Netflix,394
+Midnight Sun 5,2023,L. Zhang,164,8.1,320955,An imaginative world filled with magic and wonder.,Japan,520071864,Fantasy,Pixar,922
+Crimson Sky 14,1993,J. Smith,159,7.9,300171,A touching love story with heartwarming moments.,China,57768258,Romance,Netflix,242
+Frozen Whisper 16,2020,J. Smith,155,9.7,83590,A suspenseful plot filled with unexpected twists.,USA,938492680,Thriller,Universal Pictures,133
+Lost World 15,1992,L. Zhang,143,8.4,91170,A touching love story with heartwarming moments.,USA,524169054,Romance,Yash Raj Films,16
+Firestorm 20,1989,J. Smith,114,6.2,145457,A spine-chilling tale that evokes fear and dread.,China,683354661,Horror,DreamWorks,51
+Last Mission 16,2000,P. Adams,168,4.1,489262,An emotional journey exploring complex characters.,USA,115065591,Drama,Netflix,694
+Eternal Love 5,1987,J. Smith,128,8,471143,A light-hearted comedy that guarantees laughter.,China,765377261,Comedy,Sony Pictures,991
+Broken Truth 6,2007,T. Johnson,120,8.9,434041,A fast-paced thriller with intense action scenes.,Japan,69813738,Action,DreamWorks,150
+Crimson Sky 1,1992,L. Zhang,138,4.7,468542,A fast-paced thriller with intense action scenes.,China,3291117,Action,Pixar,246
+Crimson Sky 8,2022,M. Brown,126,4.5,112586,A light-hearted comedy that guarantees laughter.,UK,861827371,Comedy,Paramount Pictures,583
+Eternal Love 13,2004,T. Johnson,127,5.6,14389,A light-hearted comedy that guarantees laughter.,China,41837519,Comedy,Amazon Studios,430
+Last Mission 13,1995,L. Zhang,88,5,245889,A fast-paced thriller with intense action scenes.,UK,442331054,Action,Netflix,43
+Last Mission 4,1998,P. Adams,114,8.6,135298,A touching love story with heartwarming moments.,USA,702334865,Romance,Amazon Studios,310
+Winds of Fate 19,2008,S. Chen,86,9.4,223928,A fast-paced thriller with intense action scenes.,India,41837519,Action,Studio Ghibli,229
+Broken Truth 19,1992,J. Smith,106,8,350181,A light-hearted comedy that guarantees laughter.,Japan,739437378,Comedy,Warner Bros,190
+Silent Echo 17,1998,R. Lee,135,8.5,317498,An imaginative world filled with magic and wonder.,India,526015669,Fantasy,Sony Pictures,430
+Firestorm 10,2014,M. Brown,92,8.1,293286,A suspenseful plot filled with unexpected twists.,Japan,442331054,Thriller,Universal Pictures,770
+Frozen Whisper 11,2003,A. Khan,168,4.4,140075,An emotional journey exploring complex characters.,India,98944654,Drama,Yash Raj Films,31
+Eternal Love 11,1989,A. Khan,155,6,275417,An emotional journey exploring complex characters.,China,347695657,Drama,Warner Bros,583
+Crimson Sky 16,2000,M. Brown,132,8.8,140698,An emotional journey exploring complex characters.,USA,850150842,Drama,DreamWorks,219
+Crimson Sky 19,1981,S. Chen,116,7.6,81485,A fast-paced thriller with intense action scenes.,South Korea,54691318,Action,Sony Pictures,723
+Midnight Sun 10,2018,T. Johnson,149,7.1,472571,An imaginative world filled with magic and wonder.,UK,708399488,Fantasy,Sony Pictures,595
+Lost World 16,1999,R. Lee,158,5.7,19264,An imaginative world filled with magic and wonder.,India,790346988,Fantasy,Yash Raj Films,846
+Broken Truth 14,1994,S. Chen,152,7.4,75670,A light-hearted comedy that guarantees laughter.,India,524169054,Comedy,DreamWorks,844
+Midnight Sun 2,1988,L. Zhang,105,6.8,157882,A light-hearted comedy that guarantees laughter.,China,422186480,Comedy,Sony Pictures,372
+Midnight Sun 17,2012,N. Roy,147,7.5,337462,A touching love story with heartwarming moments.,South Korea,901835692,Romance,Studio Ghibli,146
+Broken Truth 9,2023,S. Chen,154,8.5,278257,A spine-chilling tale that evokes fear and dread.,France,986987570,Horror,Amazon Studios,186
+Broken Truth 20,2001,M. Brown,149,8,200670,A fast-paced thriller with intense action scenes.,USA,203681799,Action,Netflix,89
+Midnight Sun 11,2010,R. Lee,147,4.8,355369,A touching love story with heartwarming moments.,South Korea,57768258,Romance,Universal Pictures,275
+City Lights 13,1990,M. Brown,81,7.6,336891,An emotional journey exploring complex characters.,Japan,375136716,Drama,Paramount Pictures,740
+Frozen Whisper 5,2001,T. Johnson,112,5.7,36437,An imaginative world filled with magic and wonder.,Japan,986810260,Fantasy,Studio Ghibli,731
+Silent Echo 8,2022,L. Zhang,131,8.6,85060,An imaginative world filled with magic and wonder.,China,3291117,Fantasy,Yash Raj Films,994
+Firestorm 17,1994,A. Khan,145,8.9,489874,A touching love story with heartwarming moments.,China,206472368,Romance,Amazon Studios,567
+Winds of Fate 8,2018,L. Zhang,102,4.4,181467,An emotional journey exploring complex characters.,UK,856605219,Drama,Universal Pictures,247
+Frozen Whisper 3,2010,P. Adams,104,7.6,74414,A fast-paced thriller with intense action scenes.,India,222735463,Action,Sony Pictures,472
+Ocean Call 4,2001,S. Chen,173,5,161064,An emotional journey exploring complex characters.,UK,414108018,Drama,Netflix,460
+Silent Echo 3,2016,D. Patel,134,4.7,120991,An emotional journey exploring complex characters.,India,517251726,Drama,Paramount Pictures,20
+Quiet Heart 11,1985,A. Khan,130,5.3,367862,An emotional journey exploring complex characters.,UK,987584706,Drama,Pixar,921
+City Lights 19,1982,M. Brown,143,6.6,498117,A touching love story with heartwarming moments.,South Korea,57768258,Romance,Paramount Pictures,532
+Broken Truth 16,2004,D. Patel,145,8.7,338698,A fast-paced thriller with intense action scenes.,China,465759764,Action,Netflix,780
+City Lights 15,1997,S. Chen,126,7.3,235304,A touching love story with heartwarming moments.,South Korea,342083924,Romance,Pixar,654
+Winds of Fate 7,2023,D. Patel,130,5.7,320049,An imaginative world filled with magic and wonder.,France,347695657,Fantasy,Amazon Studios,422
+Silent Echo 16,2012,L. Zhang,166,5.7,123818,An imaginative world filled with magic and wonder.,Japan,457546606,Fantasy,Studio Ghibli,642
+City Lights 18,2021,R. Lee,155,4.8,258226,A fast-paced thriller with intense action scenes.,France,523967607,Action,Warner Bros,389
+Ocean Call 7,2011,M. Brown,130,7.4,341667,A spine-chilling tale that evokes fear and dread.,India,54691318,Horror,Universal Pictures,4
+Firestorm 3,2003,R. Lee,99,4.3,83859,A light-hearted comedy that guarantees laughter.,Japan,790346988,Comedy,Netflix,935
+Winds of Fate 14,2011,A. Khan,96,8.6,263265,A spine-chilling tale that evokes fear and dread.,Japan,526015669,Horror,Amazon Studios,447
+Last Mission 17,1997,S. Chen,136,4.7,51786,A fast-paced thriller with intense action scenes.,France,98944654,Action,Universal Pictures,700
+Quiet Heart 9,2003,S. Chen,154,7.4,305437,A suspenseful plot filled with unexpected twists.,France,15596411,Thriller,Amazon Studios,140
+Last Mission 13,2010,R. Lee,152,4.2,419715,A fast-paced thriller with intense action scenes.,China,677884105,Action,Warner Bros,511
+Lost World 4,1993,N. Roy,131,5.5,459479,A suspenseful plot filled with unexpected twists.,Japan,347695657,Thriller,Universal Pictures,961
+Crimson Sky 18,1992,A. Khan,152,4.6,308967,An imaginative world filled with magic and wonder.,USA,284842506,Fantasy,Studio Ghibli,78
+Crimson Sky 19,2012,R. Lee,102,4.3,420342,A touching love story with heartwarming moments.,India,541925389,Romance,Universal Pictures,283
+Midnight Sun 5,2008,R. Lee,155,7.2,37385,A suspenseful plot filled with unexpected twists.,UK,488839661,Thriller,Pixar,589
+Last Mission 18,2019,A. Khan,123,6.5,366993,A suspenseful plot filled with unexpected twists.,USA,815292816,Thriller,Studio Ghibli,571
+Winds of Fate 15,1998,R. Lee,174,7.8,355221,An emotional journey exploring complex characters.,South Korea,327722683,Drama,Sony Pictures,957
+Eternal Love 14,1989,S. Chen,158,6.3,388345,A fast-paced thriller with intense action scenes.,China,986987570,Action,Studio Ghibli,988
+Ocean Call 12,1995,P. Adams,145,8.9,423278,A touching love story with heartwarming moments.,USA,520071864,Romance,Yash Raj Films,975
+Broken Truth 15,2003,A. Khan,144,5.9,221184,An imaginative world filled with magic and wonder.,UK,441616339,Fantasy,Sony Pictures,673
+Ocean Call 16,1986,S. Chen,146,5.1,331197,A spine-chilling tale that evokes fear and dread.,China,644766502,Horror,Pixar,786
+Winds of Fate 16,1989,T. Johnson,107,8.5,110005,A touching love story with heartwarming moments.,South Korea,442331054,Romance,Paramount Pictures,840
+Frozen Whisper 4,2006,T. Johnson,156,5.5,194550,An emotional journey exploring complex characters.,USA,790346988,Drama,DreamWorks,902
+Midnight Sun 16,2009,J. Smith,83,6.8,317218,An imaginative world filled with magic and wonder.,China,856605219,Fantasy,Pixar,733
+Broken Truth 6,2007,J. Smith,170,6.1,487394,A suspenseful plot filled with unexpected twists.,Japan,501027941,Thriller,Paramount Pictures,488
+Lost World 14,1993,P. Adams,177,9.8,463683,A fast-paced thriller with intense action scenes.,Japan,41837519,Action,Studio Ghibli,468
+Lost World 9,2008,L. Zhang,110,4.1,398202,An emotional journey exploring complex characters.,China,501027941,Drama,Studio Ghibli,462
+Silent Echo 2,1995,J. Smith,146,7,411466,A spine-chilling tale that evokes fear and dread.,South Korea,526015669,Horror,Netflix,428
+Firestorm 10,2016,P. Adams,178,6.5,388957,An emotional journey exploring complex characters.,South Korea,770412921,Drama,Universal Pictures,369
+Crimson Sky 11,1984,P. Adams,164,5,340227,A touching love story with heartwarming moments.,France,222735463,Romance,Studio Ghibli,579
+Midnight Sun 9,2022,N. Roy,134,9.8,286074,An emotional journey exploring complex characters.,India,131779818,Drama,Warner Bros,117
+Frozen Whisper 3,2021,R. Lee,80,6.1,317854,A suspenseful plot filled with unexpected twists.,USA,541925389,Thriller,DreamWorks,570
+Ocean Call 5,2012,T. Johnson,101,7,303998,A spine-chilling tale that evokes fear and dread.,South Korea,541925389,Horror,Netflix,72
+Midnight Sun 2,1997,P. Adams,142,7,197915,An emotional journey exploring complex characters.,France,815292816,Drama,Netflix,835
+Eternal Love 20,2014,M. Brown,82,6,225098,An emotional journey exploring complex characters.,India,457546606,Drama,Amazon Studios,474
+Last Mission 18,2005,N. Roy,124,5.4,194937,A touching love story with heartwarming moments.,USA,992515912,Romance,Amazon Studios,694
+Ocean Call 11,2009,N. Roy,113,9.7,495191,A touching love story with heartwarming moments.,USA,382356382,Romance,Universal Pictures,863
+Silent Echo 3,2011,D. Patel,147,7.3,26463,A fast-paced thriller with intense action scenes.,UK,225526871,Action,Sony Pictures,409
+Crimson Sky 18,2003,J. Smith,84,5.1,30334,A spine-chilling tale that evokes fear and dread.,USA,644766502,Horror,Netflix,636
+Ocean Call 12,2011,D. Patel,91,9.1,311384,A fast-paced thriller with intense action scenes.,UK,206472368,Action,Universal Pictures,606
+Quiet Heart 16,2004,A. Khan,166,7.9,408481,A fast-paced thriller with intense action scenes.,South Korea,375136716,Action,Warner Bros,798
+Broken Truth 4,2017,T. Johnson,154,4.3,373326,A spine-chilling tale that evokes fear and dread.,UK,209332417,Horror,DreamWorks,668
+Midnight Sun 18,2004,R. Lee,98,8.1,34007,A light-hearted comedy that guarantees laughter.,France,610262940,Comedy,Pixar,230
+Midnight Sun 20,2001,A. Khan,136,6.5,51606,A spine-chilling tale that evokes fear and dread.,USA,41837519,Horror,DreamWorks,34
+Silent Echo 5,2013,L. Zhang,125,8.8,259074,A fast-paced thriller with intense action scenes.,UK,206472368,Action,Sony Pictures,783
+Firestorm 7,1981,L. Zhang,157,4.9,196788,An emotional journey exploring complex characters.,India,442331054,Drama,Universal Pictures,503
+Quiet Heart 19,2007,P. Adams,88,5.4,314402,A touching love story with heartwarming moments.,France,222735463,Romance,DreamWorks,345
+Broken Truth 15,2013,R. Lee,84,4.1,437588,A light-hearted comedy that guarantees laughter.,UK,524683816,Comedy,Studio Ghibli,705
+Midnight Sun 19,2007,S. Chen,156,5.6,415383,A touching love story with heartwarming moments.,South Korea,54691318,Romance,Paramount Pictures,762
+Lost World 19,1999,D. Patel,139,6.9,411990,An imaginative world filled with magic and wonder.,South Korea,501027941,Fantasy,Amazon Studios,715
+Quiet Heart 8,1984,R. Lee,158,4.5,151527,A suspenseful plot filled with unexpected twists.,India,342083924,Thriller,Yash Raj Films,397
+Firestorm 3,1989,S. Chen,155,4.6,43638,A touching love story with heartwarming moments.,South Korea,179936008,Romance,Universal Pictures,939
+City Lights 15,1987,A. Khan,82,9.8,420678,A light-hearted comedy that guarantees laughter.,India,685700790,Comedy,Yash Raj Films,687
+Quiet Heart 14,2011,R. Lee,170,7.8,475507,An emotional journey exploring complex characters.,France,541925389,Drama,Netflix,559
+Crimson Sky 6,1996,N. Roy,101,4.9,219281,A touching love story with heartwarming moments.,India,876664144,Romance,Studio Ghibli,897
+Frozen Whisper 3,2013,D. Patel,175,8.7,342136,A touching love story with heartwarming moments.,India,131779818,Romance,Pixar,785
+Silent Echo 7,1994,J. Smith,132,5.1,40018,A light-hearted comedy that guarantees laughter.,Japan,765377261,Comedy,Paramount Pictures,34
+Midnight Sun 17,1980,M. Brown,84,9.2,444722,An imaginative world filled with magic and wonder.,South Korea,526015669,Fantasy,Universal Pictures,62
+Ocean Call 10,2020,D. Patel,87,9.9,368418,An emotional journey exploring complex characters.,UK,699675237,Drama,Universal Pictures,29
+Last Mission 20,2012,A. Khan,130,9.5,121802,A fast-paced thriller with intense action scenes.,South Korea,768848737,Action,Studio Ghibli,553
+City Lights 5,2013,R. Lee,133,4.1,222032,An emotional journey exploring complex characters.,France,517251726,Drama,Studio Ghibli,70
+Ocean Call 20,2000,J. Smith,155,6.2,251543,An emotional journey exploring complex characters.,South Korea,259032858,Drama,Amazon Studios,546
+Midnight Sun 12,2003,A. Khan,138,6.7,274997,An emotional journey exploring complex characters.,USA,510997252,Drama,Pixar,714
+City Lights 18,2021,S. Chen,159,8.2,379439,A light-hearted comedy that guarantees laughter.,USA,200330529,Comedy,Amazon Studios,460
+Crimson Sky 2,1981,J. Smith,180,4.7,290201,An emotional journey exploring complex characters.,India,467259847,Drama,Pixar,356
+Ocean Call 4,1985,N. Roy,159,8.9,1602,A suspenseful plot filled with unexpected twists.,Japan,683354661,Thriller,Warner Bros,354
+Frozen Whisper 6,1995,M. Brown,171,4.6,78815,A light-hearted comedy that guarantees laughter.,South Korea,179936008,Comedy,Studio Ghibli,186
+Eternal Love 20,1983,D. Patel,179,4.9,475115,A touching love story with heartwarming moments.,Japan,685700790,Romance,Sony Pictures,540
+Firestorm 11,1983,R. Lee,122,9.2,442582,A suspenseful plot filled with unexpected twists.,France,400204169,Thriller,Amazon Studios,239
+Frozen Whisper 3,2023,D. Patel,167,4.5,388951,An emotional journey exploring complex characters.,USA,884189814,Drama,Netflix,496
+Silent Echo 9,1991,L. Zhang,135,9.6,438150,A spine-chilling tale that evokes fear and dread.,India,457546606,Horror,Warner Bros,281
+City Lights 20,2021,R. Lee,128,8.5,111986,An emotional journey exploring complex characters.,India,781897900,Drama,Yash Raj Films,545
+Eternal Love 3,1988,D. Patel,173,4.5,355106,A spine-chilling tale that evokes fear and dread.,France,520071864,Horror,Warner Bros,130
+Firestorm 12,1983,N. Roy,147,8.5,452464,A light-hearted comedy that guarantees laughter.,USA,561084152,Comedy,Warner Bros,712
+Firestorm 5,2005,N. Roy,83,4.2,257134,A touching love story with heartwarming moments.,France,438802491,Romance,Netflix,727
+Winds of Fate 19,2006,A. Khan,89,4.7,299751,An imaginative world filled with magic and wonder.,Japan,465759764,Fantasy,Paramount Pictures,71
+Eternal Love 19,2007,P. Adams,116,6.7,467962,An emotional journey exploring complex characters.,USA,957562425,Drama,Sony Pictures,508
+City Lights 20,2023,T. Johnson,86,6.2,256236,An emotional journey exploring complex characters.,USA,535226842,Drama,Yash Raj Films,24
+Quiet Heart 10,1983,R. Lee,156,7.9,482193,A fast-paced thriller with intense action scenes.,India,3291117,Action,Netflix,275
+Crimson Sky 4,1985,N. Roy,163,4.1,491829,A fast-paced thriller with intense action scenes.,China,768848737,Action,Paramount Pictures,280
+Firestorm 12,2020,A. Khan,157,8.3,208958,A suspenseful plot filled with unexpected twists.,China,770412921,Thriller,Amazon Studios,565
+Quiet Heart 19,2018,D. Patel,95,8.9,2287,A fast-paced thriller with intense action scenes.,South Korea,347789326,Action,Warner Bros,494
+Crimson Sky 4,2013,S. Chen,89,4.9,379261,A touching love story with heartwarming moments.,UK,428612829,Romance,Pixar,189
+Midnight Sun 17,1984,R. Lee,99,7.8,363528,A suspenseful plot filled with unexpected twists.,India,765377261,Thriller,Studio Ghibli,146
+Firestorm 4,1996,N. Roy,89,4.3,392598,An emotional journey exploring complex characters.,UK,293340992,Drama,DreamWorks,649
+Winds of Fate 7,2023,S. Chen,155,8,465084,A light-hearted comedy that guarantees laughter.,France,235719390,Comedy,Netflix,935
+Eternal Love 10,2018,M. Brown,123,7.5,347976,A fast-paced thriller with intense action scenes.,Japan,54691318,Action,Studio Ghibli,506
+Crimson Sky 7,2001,S. Chen,168,4.5,402605,A touching love story with heartwarming moments.,India,610262940,Romance,Paramount Pictures,174
+Frozen Whisper 17,1981,D. Patel,158,4.9,187441,A fast-paced thriller with intense action scenes.,France,347695657,Action,Pixar,151
+Silent Echo 7,1984,L. Zhang,126,7.3,99409,A light-hearted comedy that guarantees laughter.,India,69813738,Comedy,Universal Pictures,926
+Silent Echo 18,2012,D. Patel,114,6.9,130349,A spine-chilling tale that evokes fear and dread.,USA,681993385,Horror,Studio Ghibli,91
+Quiet Heart 1,1982,T. Johnson,88,7.5,348535,A suspenseful plot filled with unexpected twists.,France,708399488,Thriller,Universal Pictures,591
+Eternal Love 1,1980,S. Chen,150,6.6,473544,A spine-chilling tale that evokes fear and dread.,India,3291117,Horror,Pixar,835
+Midnight Sun 19,2019,R. Lee,95,6.2,309270,A fast-paced thriller with intense action scenes.,South Korea,561084152,Action,Universal Pictures,219
+Winds of Fate 20,2019,M. Brown,153,6.5,329828,A touching love story with heartwarming moments.,China,452570078,Romance,Yash Raj Films,579
+Ocean Call 12,2012,R. Lee,134,7.4,335449,A light-hearted comedy that guarantees laughter.,Japan,488839661,Comedy,Universal Pictures,622
+Silent Echo 12,1981,T. Johnson,105,6.5,206817,A touching love story with heartwarming moments.,USA,901835692,Romance,Universal Pictures,473
+Ocean Call 13,1994,T. Johnson,99,5.1,211244,A touching love story with heartwarming moments.,South Korea,561084152,Romance,Warner Bros,494
+Eternal Love 16,1988,S. Chen,124,6.3,114963,An emotional journey exploring complex characters.,South Korea,347789326,Drama,Pixar,741
+Last Mission 3,2001,T. Johnson,146,7.3,374909,An emotional journey exploring complex characters.,Japan,248390657,Drama,Pixar,636
+Lost World 18,2018,N. Roy,114,8.9,412602,A light-hearted comedy that guarantees laughter.,Japan,115065591,Comedy,Sony Pictures,143
+Winds of Fate 9,1985,T. Johnson,154,5.8,454395,An imaginative world filled with magic and wonder.,UK,69813738,Fantasy,Studio Ghibli,504
+Winds of Fate 14,1991,D. Patel,91,9.7,112432,A suspenseful plot filled with unexpected twists.,USA,422898206,Thriller,Paramount Pictures,435
+Crimson Sky 13,2009,R. Lee,175,5.7,357558,An imaginative world filled with magic and wonder.,UK,151877813,Fantasy,Studio Ghibli,242
+Lost World 9,1990,P. Adams,120,9.5,76890,A spine-chilling tale that evokes fear and dread.,China,861368025,Horror,Pixar,631
+Lost World 11,2003,P. Adams,159,4.7,110102,A spine-chilling tale that evokes fear and dread.,South Korea,523967607,Horror,Sony Pictures,933
+City Lights 7,1988,N. Roy,143,7.7,291867,A spine-chilling tale that evokes fear and dread.,South Korea,375136716,Horror,Pixar,985
+City Lights 13,2012,P. Adams,153,9.8,108799,A spine-chilling tale that evokes fear and dread.,France,225526871,Horror,DreamWorks,989
+Ocean Call 12,1983,A. Khan,148,6.4,298062,A spine-chilling tale that evokes fear and dread.,India,770412921,Horror,Sony Pictures,759
+Crimson Sky 8,2020,A. Khan,107,9.7,194510,A spine-chilling tale that evokes fear and dread.,South Korea,517251726,Horror,Sony Pictures,729
+Quiet Heart 2,2008,D. Patel,101,9,118828,A touching love story with heartwarming moments.,UK,21778670,Romance,Universal Pictures,57
+Winds of Fate 4,2022,J. Smith,97,6.4,7763,A spine-chilling tale that evokes fear and dread.,USA,699675237,Horror,Amazon Studios,932
+Ocean Call 16,1992,A. Khan,172,8.2,395899,An emotional journey exploring complex characters.,USA,861368025,Drama,Paramount Pictures,811
+Broken Truth 19,2009,P. Adams,147,5.8,141934,A suspenseful plot filled with unexpected twists.,India,561084152,Thriller,Sony Pictures,397
+Ocean Call 12,2014,A. Khan,107,8.9,24640,A fast-paced thriller with intense action scenes.,USA,203681799,Action,Warner Bros,990
+Firestorm 16,1983,A. Khan,81,7.6,301867,A spine-chilling tale that evokes fear and dread.,USA,342083924,Horror,Universal Pictures,631
+Crimson Sky 6,1992,M. Brown,163,7,230638,An emotional journey exploring complex characters.,UK,60247754,Drama,Studio Ghibli,691
+Winds of Fate 16,1996,D. Patel,83,9.2,44764,A light-hearted comedy that guarantees laughter.,South Korea,179936008,Comedy,DreamWorks,175
+Ocean Call 9,1981,P. Adams,82,9.3,466666,A suspenseful plot filled with unexpected twists.,India,457546606,Thriller,Universal Pictures,704
+Winds of Fate 9,2000,N. Roy,172,6.3,36346,A spine-chilling tale that evokes fear and dread.,USA,681993385,Horror,DreamWorks,216
+City Lights 17,2008,A. Khan,127,9.5,125979,A light-hearted comedy that guarantees laughter.,Japan,610262940,Comedy,DreamWorks,593
+Silent Echo 18,2013,P. Adams,91,9.9,330928,An emotional journey exploring complex characters.,Japan,821037985,Drama,Studio Ghibli,569
+Winds of Fate 20,2010,D. Patel,121,7.2,156184,A spine-chilling tale that evokes fear and dread.,Japan,400204169,Horror,Universal Pictures,464
+Crimson Sky 15,1980,L. Zhang,123,5.2,159276,An emotional journey exploring complex characters.,UK,523967607,Drama,Studio Ghibli,559
+City Lights 9,2000,D. Patel,119,8.6,94049,An emotional journey exploring complex characters.,USA,644766502,Drama,Studio Ghibli,524
+Frozen Whisper 14,2019,A. Khan,112,8.7,359194,A fast-paced thriller with intense action scenes.,India,644766502,Action,DreamWorks,440
+Midnight Sun 3,1988,D. Patel,124,9,413358,A light-hearted comedy that guarantees laughter.,China,535226842,Comedy,Studio Ghibli,407
+Frozen Whisper 1,2003,A. Khan,80,8.5,71216,A spine-chilling tale that evokes fear and dread.,China,541925389,Horror,Pixar,897
+Broken Truth 20,2000,M. Brown,158,5.2,10380,A spine-chilling tale that evokes fear and dread.,UK,524169054,Horror,Studio Ghibli,202
+Firestorm 5,1996,D. Patel,149,7.4,123999,A spine-chilling tale that evokes fear and dread.,UK,422898206,Horror,DreamWorks,534
+City Lights 11,2014,T. Johnson,107,7.6,146453,A spine-chilling tale that evokes fear and dread.,UK,102936598,Horror,Warner Bros,996
+Silent Echo 4,2013,N. Roy,129,8.2,124113,An imaginative world filled with magic and wonder.,South Korea,702334865,Fantasy,Amazon Studios,37
+Last Mission 12,1997,A. Khan,153,5.9,81406,An emotional journey exploring complex characters.,USA,876664144,Drama,Pixar,896
+Last Mission 5,1989,M. Brown,128,6.1,407090,A suspenseful plot filled with unexpected twists.,France,293340992,Thriller,Paramount Pictures,673
+Last Mission 3,1987,D. Patel,178,6.8,293788,A suspenseful plot filled with unexpected twists.,China,677884105,Thriller,Netflix,945
+Eternal Love 19,2014,D. Patel,150,9.6,30505,A light-hearted comedy that guarantees laughter.,South Korea,438802491,Comedy,Warner Bros,732
+City Lights 12,2007,A. Khan,127,4.8,174985,A fast-paced thriller with intense action scenes.,France,541925389,Action,Yash Raj Films,667
+Firestorm 19,1991,S. Chen,82,7,362489,A spine-chilling tale that evokes fear and dread.,China,69813738,Horror,Paramount Pictures,283
+Last Mission 10,2023,R. Lee,146,7.1,369501,An emotional journey exploring complex characters.,France,957562425,Drama,Warner Bros,194
+Last Mission 17,2015,D. Patel,173,6.7,54489,A touching love story with heartwarming moments.,South Korea,465759764,Romance,Universal Pictures,333
+Firestorm 13,1999,N. Roy,124,9.5,158004,A fast-paced thriller with intense action scenes.,UK,203681799,Action,Warner Bros,867
+Winds of Fate 12,2000,T. Johnson,96,5,464785,A fast-paced thriller with intense action scenes.,South Korea,790346988,Action,Universal Pictures,852
+Last Mission 13,2002,L. Zhang,149,4.6,141515,A spine-chilling tale that evokes fear and dread.,India,524683816,Horror,Paramount Pictures,982
+Lost World 19,2007,T. Johnson,124,5.9,432789,A suspenseful plot filled with unexpected twists.,France,526015669,Thriller,Studio Ghibli,70
+Eternal Love 2,1986,L. Zhang,146,8.5,164682,A spine-chilling tale that evokes fear and dread.,Japan,884189814,Horror,Universal Pictures,902
+Quiet Heart 8,2015,N. Roy,95,7.6,8463,An imaginative world filled with magic and wonder.,USA,422186480,Fantasy,Universal Pictures,95
+Crimson Sky 20,1987,A. Khan,90,6.8,41298,A suspenseful plot filled with unexpected twists.,Japan,535226842,Thriller,Sony Pictures,772
+Lost World 11,1999,L. Zhang,117,4.9,28127,An imaginative world filled with magic and wonder.,USA,828928865,Fantasy,Pixar,406
+Midnight Sun 7,1999,D. Patel,100,5.5,37168,A light-hearted comedy that guarantees laughter.,USA,501027941,Comedy,Paramount Pictures,968
+Midnight Sun 17,1983,P. Adams,150,9.5,398626,An imaginative world filled with magic and wonder.,China,375136716,Fantasy,Amazon Studios,599
+Midnight Sun 15,1990,M. Brown,180,8.2,114606,A touching love story with heartwarming moments.,USA,820566917,Romance,DreamWorks,524
+Frozen Whisper 3,2016,M. Brown,154,4.8,246778,A suspenseful plot filled with unexpected twists.,India,89228499,Thriller,Netflix,174
+Ocean Call 10,1980,L. Zhang,129,4.7,196449,A touching love story with heartwarming moments.,UK,510997252,Romance,DreamWorks,883
+Ocean Call 5,1988,D. Patel,132,4.5,171731,An emotional journey exploring complex characters.,India,699675237,Drama,Warner Bros,917
+Eternal Love 7,1992,T. Johnson,83,4.3,336157,A touching love story with heartwarming moments.,India,375136716,Romance,Pixar,339
+City Lights 6,1990,J. Smith,168,9.4,314213,A spine-chilling tale that evokes fear and dread.,South Korea,465759764,Horror,DreamWorks,40
+Eternal Love 3,2009,N. Roy,155,6.8,403379,A spine-chilling tale that evokes fear and dread.,USA,524169054,Horror,Warner Bros,877
+Midnight Sun 16,2011,A. Khan,165,7.9,443265,A fast-paced thriller with intense action scenes.,India,986987570,Action,Paramount Pictures,39
+Crimson Sky 15,2011,R. Lee,113,9.2,341170,A light-hearted comedy that guarantees laughter.,India,442331054,Comedy,Warner Bros,579
+Frozen Whisper 8,1980,A. Khan,104,8.5,211918,A light-hearted comedy that guarantees laughter.,UK,765377261,Comedy,Warner Bros,820
+Last Mission 5,1987,J. Smith,173,5.3,411848,A touching love story with heartwarming moments.,USA,820566917,Romance,Pixar,194
+Eternal Love 6,1997,T. Johnson,93,8.2,175231,A suspenseful plot filled with unexpected twists.,China,41837519,Thriller,DreamWorks,451
+Midnight Sun 1,2011,S. Chen,163,8.7,23751,A fast-paced thriller with intense action scenes.,Japan,508710780,Action,Yash Raj Films,796
+City Lights 14,1983,A. Khan,168,5.6,489089,A light-hearted comedy that guarantees laughter.,France,957562425,Comedy,Pixar,142
+Ocean Call 3,1991,P. Adams,137,4,412983,An emotional journey exploring complex characters.,France,901835692,Drama,Netflix,693
+Ocean Call 8,2007,J. Smith,104,9.4,194466,A touching love story with heartwarming moments.,France,403157039,Romance,Netflix,379
+Firestorm 20,1999,J. Smith,91,9.5,414652,A light-hearted comedy that guarantees laughter.,India,561084152,Comedy,Paramount Pictures,165
+Lost World 19,2020,T. Johnson,150,9.3,339650,A suspenseful plot filled with unexpected twists.,UK,41837519,Thriller,Pixar,739
+Midnight Sun 9,1991,L. Zhang,179,7.8,206009,A fast-paced thriller with intense action scenes.,South Korea,131779818,Action,Amazon Studios,393
+Lost World 20,1983,L. Zhang,134,8.2,208187,A touching love story with heartwarming moments.,USA,209332417,Romance,Pixar,422
+Crimson Sky 16,2018,T. Johnson,93,4.6,172059,A spine-chilling tale that evokes fear and dread.,South Korea,467259847,Horror,Amazon Studios,93
+Firestorm 6,1996,N. Roy,144,4.8,433444,A light-hearted comedy that guarantees laughter.,China,89228499,Comedy,Sony Pictures,780
+City Lights 2,1981,S. Chen,80,6.3,389751,A light-hearted comedy that guarantees laughter.,France,523967607,Comedy,Amazon Studios,928
+Broken Truth 20,2010,N. Roy,145,8.1,41338,A touching love story with heartwarming moments.,UK,610262940,Romance,Pixar,924
+Winds of Fate 15,1984,P. Adams,84,6.1,243456,An imaginative world filled with magic and wonder.,France,400204169,Fantasy,Paramount Pictures,403
+Firestorm 5,1999,J. Smith,175,4,450020,A fast-paced thriller with intense action scenes.,Japan,510997252,Action,Studio Ghibli,843
+Ocean Call 18,1984,D. Patel,171,7.1,382460,A suspenseful plot filled with unexpected twists.,China,442331054,Thriller,Netflix,623
+Eternal Love 7,2009,T. Johnson,126,8.8,303491,A suspenseful plot filled with unexpected twists.,South Korea,488839661,Thriller,Yash Raj Films,141
+Ocean Call 14,2001,T. Johnson,126,4.6,328666,An emotional journey exploring complex characters.,France,765377261,Drama,Warner Bros,204
+Crimson Sky 20,1984,M. Brown,105,8.4,307750,A suspenseful plot filled with unexpected twists.,South Korea,644766502,Thriller,Yash Raj Films,740
+Lost World 1,2013,S. Chen,170,6.7,157362,A touching love story with heartwarming moments.,UK,876664144,Romance,Universal Pictures,281
+Silent Echo 4,2021,N. Roy,152,4.1,120759,A fast-paced thriller with intense action scenes.,USA,561084152,Action,Paramount Pictures,433
+Broken Truth 6,2000,R. Lee,168,9.2,7620,A spine-chilling tale that evokes fear and dread.,Japan,206472368,Horror,Sony Pictures,733
+Crimson Sky 19,2003,J. Smith,145,6.8,211782,A fast-paced thriller with intense action scenes.,China,677884105,Action,Yash Raj Films,570
+Winds of Fate 11,2012,T. Johnson,100,6.8,262606,An emotional journey exploring complex characters.,China,15596411,Drama,Amazon Studios,485
+Crimson Sky 6,1984,L. Zhang,160,6,146433,A suspenseful plot filled with unexpected twists.,China,248390657,Thriller,Paramount Pictures,540
+Eternal Love 10,2016,S. Chen,158,6,254305,A fast-paced thriller with intense action scenes.,China,986987570,Action,DreamWorks,814
+Ocean Call 15,1995,D. Patel,111,8.3,59533,A touching love story with heartwarming moments.,UK,457546606,Romance,Netflix,367
+Lost World 2,2002,J. Smith,102,5.2,495329,A spine-chilling tale that evokes fear and dread.,China,293340992,Horror,Pixar,911
+Last Mission 20,2020,N. Roy,98,5.1,18926,A light-hearted comedy that guarantees laughter.,UK,702334865,Comedy,Amazon Studios,691
+Firestorm 7,2017,M. Brown,166,5.1,224058,A touching love story with heartwarming moments.,China,901835692,Romance,Universal Pictures,417
+Lost World 19,2006,A. Khan,95,7.2,404465,A spine-chilling tale that evokes fear and dread.,India,719946753,Horror,Studio Ghibli,861
+Broken Truth 1,2023,L. Zhang,118,8.5,51583,A spine-chilling tale that evokes fear and dread.,South Korea,790346988,Horror,Amazon Studios,128
+Broken Truth 1,2018,A. Khan,103,8.9,455085,An emotional journey exploring complex characters.,India,21778670,Drama,Amazon Studios,471
+Firestorm 12,1981,R. Lee,82,5.3,28992,A touching love story with heartwarming moments.,India,517251726,Romance,Yash Raj Films,698
+Silent Echo 9,2004,P. Adams,111,6.7,101491,A fast-paced thriller with intense action scenes.,South Korea,980966690,Action,Studio Ghibli,282
+Broken Truth 20,2004,T. Johnson,93,6,152596,A fast-paced thriller with intense action scenes.,China,739437378,Action,Sony Pictures,772
+Silent Echo 6,2004,R. Lee,145,4.1,390363,An emotional journey exploring complex characters.,UK,524683816,Drama,Amazon Studios,903
+Lost World 19,1998,R. Lee,114,8.1,489763,A suspenseful plot filled with unexpected twists.,USA,770412921,Thriller,Studio Ghibli,204
+City Lights 14,2012,T. Johnson,101,5.5,223907,An imaginative world filled with magic and wonder.,USA,938492680,Fantasy,Paramount Pictures,870
+Crimson Sky 11,2007,T. Johnson,84,9.8,165381,A spine-chilling tale that evokes fear and dread.,China,992515912,Horror,Universal Pictures,816
+Broken Truth 18,2023,M. Brown,89,4.7,282664,A touching love story with heartwarming moments.,USA,524169054,Romance,Amazon Studios,164
+City Lights 18,1985,P. Adams,150,6.5,177098,A touching love story with heartwarming moments.,South Korea,347789326,Romance,Yash Raj Films,204
+Frozen Whisper 8,2015,J. Smith,139,6.5,145326,A fast-paced thriller with intense action scenes.,South Korea,259032858,Action,Netflix,490
+Midnight Sun 11,2001,N. Roy,126,6.6,135509,A spine-chilling tale that evokes fear and dread.,South Korea,876664144,Horror,Universal Pictures,408
+Eternal Love 5,1983,M. Brown,135,7.2,49978,A suspenseful plot filled with unexpected twists.,China,442331054,Thriller,Studio Ghibli,168
+Last Mission 15,1998,P. Adams,147,8.5,150237,An imaginative world filled with magic and wonder.,South Korea,477372302,Fantasy,Universal Pictures,327
+Eternal Love 19,2007,R. Lee,111,5.4,363595,A touching love story with heartwarming moments.,South Korea,683354661,Romance,Pixar,816
+Firestorm 3,1983,J. Smith,90,4.1,264828,An imaginative world filled with magic and wonder.,UK,222735463,Fantasy,Warner Bros,538
+Quiet Heart 20,2006,T. Johnson,117,4.6,440009,A touching love story with heartwarming moments.,India,203681799,Romance,Warner Bros,196
+Firestorm 19,2001,R. Lee,140,8.9,157648,An emotional journey exploring complex characters.,USA,467259847,Drama,DreamWorks,253
+Crimson Sky 6,2001,A. Khan,81,6.1,205634,An emotional journey exploring complex characters.,China,403157039,Drama,Amazon Studios,662
+Frozen Whisper 10,2008,J. Smith,144,8.5,127404,A spine-chilling tale that evokes fear and dread.,India,821037985,Horror,Amazon Studios,775
+Broken Truth 12,1981,M. Brown,116,7.5,330140,A touching love story with heartwarming moments.,South Korea,422186480,Romance,Studio Ghibli,296
+Lost World 6,2017,R. Lee,153,5.8,155523,A touching love story with heartwarming moments.,UK,957562425,Romance,Paramount Pictures,588
+Crimson Sky 8,1989,P. Adams,83,5.4,308755,An emotional journey exploring complex characters.,China,523967607,Drama,Pixar,705
+Winds of Fate 6,2006,D. Patel,131,7.2,375130,A suspenseful plot filled with unexpected twists.,UK,884189814,Thriller,Studio Ghibli,140
+Winds of Fate 10,2004,T. Johnson,179,4.7,312907,A suspenseful plot filled with unexpected twists.,South Korea,508710780,Thriller,DreamWorks,626
+Crimson Sky 2,1992,N. Roy,90,4,96356,An imaginative world filled with magic and wonder.,India,442331054,Fantasy,Pixar,548
+Lost World 9,1988,S. Chen,111,6.7,219399,An emotional journey exploring complex characters.,USA,765377261,Drama,Yash Raj Films,34
+Midnight Sun 6,1983,J. Smith,178,9.7,430806,A light-hearted comedy that guarantees laughter.,China,815292816,Comedy,Studio Ghibli,749
+Broken Truth 3,2010,A. Khan,85,8.3,228629,A touching love story with heartwarming moments.,UK,980966690,Romance,Netflix,731
+Eternal Love 14,2005,P. Adams,162,5.9,52745,A light-hearted comedy that guarantees laughter.,France,681993385,Comedy,Paramount Pictures,510
+Silent Echo 8,2018,A. Khan,88,7.8,161327,A touching love story with heartwarming moments.,UK,739437378,Romance,Sony Pictures,457
+Winds of Fate 16,1987,D. Patel,131,8.8,51958,An imaginative world filled with magic and wonder.,USA,524169054,Fantasy,Sony Pictures,669
+Last Mission 15,2005,N. Roy,154,5.7,150641,A spine-chilling tale that evokes fear and dread.,UK,770412921,Horror,Paramount Pictures,385
+City Lights 7,1992,J. Smith,107,4,438629,A spine-chilling tale that evokes fear and dread.,India,200330529,Horror,Yash Raj Films,271
+Eternal Love 6,1988,N. Roy,111,4.6,144456,A suspenseful plot filled with unexpected twists.,France,535226842,Thriller,Netflix,627
+Lost World 7,1994,R. Lee,145,5.5,313127,A spine-chilling tale that evokes fear and dread.,South Korea,414108018,Horror,Netflix,164
+Ocean Call 18,1997,A. Khan,165,7.3,148437,An emotional journey exploring complex characters.,UK,422186480,Drama,Yash Raj Films,623
+Silent Echo 16,2020,J. Smith,84,6.7,118923,A spine-chilling tale that evokes fear and dread.,France,259032858,Horror,Sony Pictures,243
+Midnight Sun 11,2000,P. Adams,128,7.9,369946,An imaginative world filled with magic and wonder.,UK,141161575,Fantasy,Warner Bros,755
+Midnight Sun 6,2004,S. Chen,146,9.1,141724,A suspenseful plot filled with unexpected twists.,South Korea,179936008,Thriller,DreamWorks,485
+Firestorm 11,1998,N. Roy,98,8,126308,An emotional journey exploring complex characters.,USA,893361306,Drama,Paramount Pictures,522
+City Lights 11,2022,A. Khan,125,9,235853,A fast-paced thriller with intense action scenes.,China,677884105,Action,Pixar,830
+Lost World 9,1998,P. Adams,95,6.2,38496,A fast-paced thriller with intense action scenes.,India,467259847,Action,Paramount Pictures,869
+Lost World 2,2019,P. Adams,104,7.9,446801,An imaginative world filled with magic and wonder.,Japan,980966690,Fantasy,Warner Bros,904
+Quiet Heart 9,2016,A. Khan,110,5.2,110199,A spine-chilling tale that evokes fear and dread.,France,488839661,Horror,Paramount Pictures,261
+Firestorm 15,2010,M. Brown,121,5.4,232305,A light-hearted comedy that guarantees laughter.,South Korea,535226842,Comedy,Netflix,250
+Silent Echo 20,1985,M. Brown,148,7.6,140578,An emotional journey exploring complex characters.,South Korea,992515912,Drama,Universal Pictures,20
+City Lights 15,1994,T. Johnson,132,8.5,351443,An emotional journey exploring complex characters.,China,457546606,Drama,Netflix,115
+Frozen Whisper 15,1999,A. Khan,87,6.9,144609,A touching love story with heartwarming moments.,Japan,98944654,Romance,DreamWorks,757
+Eternal Love 1,1993,A. Khan,124,7.1,357070,An emotional journey exploring complex characters.,France,677884105,Drama,Studio Ghibli,177
+Silent Echo 14,2011,M. Brown,121,4.2,120209,A spine-chilling tale that evokes fear and dread.,Japan,957562425,Horror,DreamWorks,309
+Ocean Call 16,2014,A. Khan,117,4.8,103796,A touching love story with heartwarming moments.,China,131779818,Romance,Sony Pictures,444
+Last Mission 1,2000,M. Brown,137,7.2,115914,An emotional journey exploring complex characters.,India,768848737,Drama,Sony Pictures,88
+Quiet Heart 9,1998,A. Khan,158,9.6,395737,A touching love story with heartwarming moments.,South Korea,347789326,Romance,Warner Bros,961
+Firestorm 20,2016,J. Smith,139,4.7,287522,A fast-paced thriller with intense action scenes.,India,414108018,Action,Universal Pictures,707
+Winds of Fate 12,1990,P. Adams,120,6.4,265518,An emotional journey exploring complex characters.,India,438802491,Drama,Amazon Studios,811
+City Lights 19,2004,J. Smith,136,9.4,90210,A touching love story with heartwarming moments.,Japan,524683816,Romance,Universal Pictures,35
+Last Mission 8,2021,A. Khan,153,4.9,34250,An imaginative world filled with magic and wonder.,South Korea,115065591,Fantasy,Studio Ghibli,99
+Last Mission 7,2001,S. Chen,135,5.3,157555,An emotional journey exploring complex characters.,South Korea,884189814,Drama,Warner Bros,167
+Eternal Love 17,1985,D. Patel,167,9.2,16247,A fast-paced thriller with intense action scenes.,USA,957562425,Action,Netflix,34
+Eternal Love 17,1991,J. Smith,171,5.6,345938,An imaginative world filled with magic and wonder.,USA,442331054,Fantasy,Studio Ghibli,92
+Ocean Call 15,1987,N. Roy,113,9.2,170493,An imaginative world filled with magic and wonder.,South Korea,102936598,Fantasy,Netflix,680
+Frozen Whisper 14,2005,P. Adams,97,9.4,307682,A touching love story with heartwarming moments.,UK,422186480,Romance,Sony Pictures,734
+City Lights 19,2016,R. Lee,129,8.6,456873,A spine-chilling tale that evokes fear and dread.,UK,222735463,Horror,Yash Raj Films,188
+Silent Echo 5,2022,J. Smith,130,5.2,211982,A light-hearted comedy that guarantees laughter.,UK,861827371,Comedy,Netflix,477
+Frozen Whisper 19,2023,J. Smith,165,8.2,312828,An emotional journey exploring complex characters.,China,719946753,Drama,Sony Pictures,229
+Silent Echo 19,1984,P. Adams,132,6.3,454085,An imaginative world filled with magic and wonder.,South Korea,685700790,Fantasy,Studio Ghibli,790
+Midnight Sun 14,2014,A. Khan,123,8.7,71475,A suspenseful plot filled with unexpected twists.,India,54691318,Thriller,Warner Bros,664
+Lost World 6,2008,S. Chen,159,9,11624,An emotional journey exploring complex characters.,South Korea,820566917,Drama,Amazon Studios,69
+Frozen Whisper 13,1992,S. Chen,93,6.4,69204,An emotional journey exploring complex characters.,USA,683354661,Drama,Yash Raj Films,939
+Midnight Sun 6,2011,P. Adams,104,7.9,41824,A suspenseful plot filled with unexpected twists.,Japan,901835692,Thriller,Studio Ghibli,283
+Winds of Fate 8,1999,M. Brown,105,6.1,225854,A spine-chilling tale that evokes fear and dread.,India,347789326,Horror,Paramount Pictures,100
+Firestorm 18,1991,J. Smith,169,6.5,345659,A touching love story with heartwarming moments.,France,520071864,Romance,Netflix,823
+Ocean Call 13,2016,D. Patel,135,6.3,94076,An imaginative world filled with magic and wonder.,USA,980966690,Fantasy,Yash Raj Films,669
+Eternal Love 3,2003,D. Patel,146,4.3,412531,A spine-chilling tale that evokes fear and dread.,India,200330529,Horror,Paramount Pictures,988
+Frozen Whisper 17,2019,S. Chen,174,8.4,160092,An emotional journey exploring complex characters.,South Korea,524683816,Drama,Universal Pictures,563
+Midnight Sun 2,2011,R. Lee,115,7.6,169779,An imaginative world filled with magic and wonder.,China,151877813,Fantasy,Paramount Pictures,49
+Crimson Sky 6,2015,R. Lee,141,8.9,398734,A spine-chilling tale that evokes fear and dread.,Japan,781897900,Horror,Pixar,492
+Eternal Love 3,2016,S. Chen,154,4.7,436242,A touching love story with heartwarming moments.,Japan,938492680,Romance,Netflix,486
+Eternal Love 2,2006,T. Johnson,95,7.5,137806,A touching love story with heartwarming moments.,India,802121619,Romance,Studio Ghibli,404
+Lost World 17,1991,L. Zhang,98,4.3,170841,A suspenseful plot filled with unexpected twists.,France,821037985,Thriller,Pixar,351
+Eternal Love 2,1991,P. Adams,98,7.5,104409,A touching love story with heartwarming moments.,UK,719946753,Romance,Studio Ghibli,71
+Firestorm 19,2010,M. Brown,95,6.8,326561,A fast-paced thriller with intense action scenes.,USA,467259847,Action,Studio Ghibli,308
+Crimson Sky 11,1992,S. Chen,177,8,169596,A touching love story with heartwarming moments.,South Korea,644766502,Romance,Paramount Pictures,935
+Broken Truth 9,1998,L. Zhang,138,8.9,278532,A spine-chilling tale that evokes fear and dread.,UK,821037985,Horror,Amazon Studios,599
+Last Mission 20,1999,R. Lee,135,6.5,382716,A fast-paced thriller with intense action scenes.,UK,206472368,Action,Studio Ghibli,93
+Frozen Whisper 10,1992,S. Chen,93,6.9,369522,An emotional journey exploring complex characters.,France,248390657,Drama,Netflix,98
+Last Mission 2,2016,P. Adams,179,8.3,173575,A spine-chilling tale that evokes fear and dread.,Japan,986987570,Horror,Warner Bros,671
+Silent Echo 3,2020,D. Patel,153,4.5,309214,An emotional journey exploring complex characters.,USA,677884105,Drama,Amazon Studios,534
+Crimson Sky 18,2016,D. Patel,102,9.1,497952,A fast-paced thriller with intense action scenes.,China,428612829,Action,Warner Bros,493
+Frozen Whisper 12,1982,M. Brown,130,8.8,339750,A light-hearted comedy that guarantees laughter.,UK,422898206,Comedy,Paramount Pictures,904
+Broken Truth 16,2016,T. Johnson,111,4.7,254091,An imaginative world filled with magic and wonder.,China,980966690,Fantasy,Pixar,591
+Lost World 11,2015,R. Lee,158,8.6,212885,An emotional journey exploring complex characters.,USA,685700790,Drama,Amazon Studios,497
+Winds of Fate 10,1981,A. Khan,98,4.5,23060,A spine-chilling tale that evokes fear and dread.,UK,284842506,Horror,Pixar,998
+Silent Echo 19,2018,L. Zhang,168,9.4,29625,A light-hearted comedy that guarantees laughter.,Japan,957562425,Comedy,Universal Pictures,368
+Ocean Call 16,2014,T. Johnson,125,4.3,428824,A light-hearted comedy that guarantees laughter.,France,98944654,Comedy,Paramount Pictures,247
+Last Mission 3,2022,T. Johnson,84,5.2,491187,A light-hearted comedy that guarantees laughter.,South Korea,541925389,Comedy,Sony Pictures,515
+Firestorm 10,2013,D. Patel,169,6.8,321770,A light-hearted comedy that guarantees laughter.,USA,884189814,Comedy,Yash Raj Films,232
+Frozen Whisper 15,1988,T. Johnson,105,4.7,91837,A light-hearted comedy that guarantees laughter.,Japan,102936598,Comedy,Netflix,270
+Frozen Whisper 1,2019,R. Lee,174,5,85288,A light-hearted comedy that guarantees laughter.,Japan,893361306,Comedy,DreamWorks,284
+Broken Truth 16,2023,M. Brown,139,8.5,9053,A fast-paced thriller with intense action scenes.,South Korea,225526871,Action,Universal Pictures,806
+City Lights 4,1997,L. Zhang,180,8.2,200081,A spine-chilling tale that evokes fear and dread.,China,702334865,Horror,Pixar,290
+Broken Truth 5,2002,T. Johnson,111,5.6,335600,An imaginative world filled with magic and wonder.,USA,98944654,Fantasy,Warner Bros,83
+Silent Echo 4,2013,P. Adams,86,6.3,422031,A suspenseful plot filled with unexpected twists.,UK,206472368,Thriller,Warner Bros,936
+Lost World 4,2022,D. Patel,95,7.6,119379,An imaginative world filled with magic and wonder.,Japan,702334865,Fantasy,Paramount Pictures,635
+Winds of Fate 15,2022,S. Chen,175,4.3,334763,A suspenseful plot filled with unexpected twists.,UK,442331054,Thriller,Amazon Studios,528
+Eternal Love 9,2014,L. Zhang,135,9,387700,A suspenseful plot filled with unexpected twists.,USA,382356382,Thriller,Yash Raj Films,517
+Silent Echo 18,1996,R. Lee,145,8.4,348311,An emotional journey exploring complex characters.,Japan,15596411,Drama,Universal Pictures,936
+Crimson Sky 14,1989,M. Brown,172,9.7,24718,An imaginative world filled with magic and wonder.,Japan,986810260,Fantasy,Amazon Studios,832
+Quiet Heart 14,2006,D. Patel,108,6.8,418634,A spine-chilling tale that evokes fear and dread.,UK,209332417,Horror,Yash Raj Films,608
+City Lights 13,2016,T. Johnson,115,8.3,258597,An emotional journey exploring complex characters.,South Korea,102936598,Drama,Universal Pictures,416
+Eternal Love 6,2003,A. Khan,83,6.5,266389,A spine-chilling tale that evokes fear and dread.,China,41837519,Horror,DreamWorks,69
+Quiet Heart 7,2001,J. Smith,95,7.5,211783,A suspenseful plot filled with unexpected twists.,UK,488839661,Thriller,DreamWorks,782
+Quiet Heart 5,2022,P. Adams,150,7.5,389779,A light-hearted comedy that guarantees laughter.,South Korea,327722683,Comedy,Paramount Pictures,132
+Firestorm 18,2010,N. Roy,87,8.7,347857,An imaginative world filled with magic and wonder.,South Korea,21778670,Fantasy,Paramount Pictures,708
+Silent Echo 17,1983,A. Khan,112,4.9,284032,A suspenseful plot filled with unexpected twists.,China,992515912,Thriller,DreamWorks,449
+Winds of Fate 1,2015,S. Chen,153,6.2,171562,A fast-paced thriller with intense action scenes.,USA,790346988,Action,Sony Pictures,574
+Quiet Heart 20,2001,A. Khan,84,5.3,233913,A light-hearted comedy that guarantees laughter.,UK,248390657,Comedy,Netflix,0
+Midnight Sun 4,2009,D. Patel,160,6.9,227212,A fast-paced thriller with intense action scenes.,India,200330529,Action,Universal Pictures,105
+Lost World 17,2016,L. Zhang,104,9.3,291119,A light-hearted comedy that guarantees laughter.,South Korea,986810260,Comedy,Yash Raj Films,727
+Ocean Call 7,2013,A. Khan,126,8.1,70228,An emotional journey exploring complex characters.,Japan,422898206,Drama,Netflix,609
+Crimson Sky 20,2015,S. Chen,164,5.4,496495,An imaginative world filled with magic and wonder.,UK,206472368,Fantasy,Netflix,871
+Ocean Call 10,2017,A. Khan,156,8.1,356142,A touching love story with heartwarming moments.,India,477372302,Romance,Universal Pictures,91
+Firestorm 12,2012,T. Johnson,90,4.9,37530,A fast-paced thriller with intense action scenes.,France,683354661,Action,Netflix,846
+Lost World 4,2005,P. Adams,143,5,366411,A suspenseful plot filled with unexpected twists.,USA,131779818,Thriller,Amazon Studios,57
+City Lights 15,2001,N. Roy,142,5.4,94962,A light-hearted comedy that guarantees laughter.,India,457546606,Comedy,Pixar,372
+Quiet Heart 9,1993,L. Zhang,124,6.7,29141,A spine-chilling tale that evokes fear and dread.,South Korea,861827371,Horror,Pixar,428
+Midnight Sun 9,2020,S. Chen,121,9.1,55168,A touching love story with heartwarming moments.,South Korea,284842506,Romance,Netflix,627
+Lost World 19,2015,T. Johnson,159,7.3,123480,An imaginative world filled with magic and wonder.,Japan,957562425,Fantasy,Yash Raj Films,202
+Firestorm 20,2018,P. Adams,145,8,25708,A touching love story with heartwarming moments.,China,21778670,Romance,Warner Bros,517
+Eternal Love 15,1986,A. Khan,141,4.9,144625,A light-hearted comedy that guarantees laughter.,China,293340992,Comedy,Universal Pictures,105
+Midnight Sun 14,2006,P. Adams,155,7.4,304756,An imaginative world filled with magic and wonder.,Japan,3291117,Fantasy,Warner Bros,959
+Midnight Sun 16,2008,L. Zhang,124,4.9,252674,A light-hearted comedy that guarantees laughter.,France,203681799,Comedy,Universal Pictures,552
+Frozen Whisper 4,2011,P. Adams,174,5.9,466165,A suspenseful plot filled with unexpected twists.,France,467259847,Thriller,Sony Pictures,157
+Quiet Heart 1,2018,T. Johnson,121,9.3,261197,A touching love story with heartwarming moments.,South Korea,815292816,Romance,Universal Pictures,204
+Midnight Sun 19,2016,M. Brown,106,4.4,375614,An emotional journey exploring complex characters.,Japan,739437378,Drama,Paramount Pictures,193
+Broken Truth 8,2010,L. Zhang,108,4,263368,A spine-chilling tale that evokes fear and dread.,France,901835692,Horror,Warner Bros,860
+Silent Echo 16,1995,R. Lee,155,6.5,105456,A fast-paced thriller with intense action scenes.,UK,508710780,Action,Studio Ghibli,391
+Quiet Heart 20,1987,T. Johnson,156,5,176561,A light-hearted comedy that guarantees laughter.,South Korea,222735463,Comedy,Yash Raj Films,252
+Eternal Love 10,1996,A. Khan,129,8.3,147168,A suspenseful plot filled with unexpected twists.,USA,524169054,Thriller,Amazon Studios,74
+Midnight Sun 11,2019,D. Patel,166,8.3,342422,A spine-chilling tale that evokes fear and dread.,Japan,524169054,Horror,Pixar,433
+Frozen Whisper 12,1999,N. Roy,119,7.2,291149,An imaginative world filled with magic and wonder.,India,69813738,Fantasy,Sony Pictures,408
+Last Mission 5,2012,M. Brown,150,7.8,336040,An emotional journey exploring complex characters.,India,770412921,Drama,Amazon Studios,570
+Ocean Call 10,1982,P. Adams,120,4.1,434933,A touching love story with heartwarming moments.,France,986987570,Romance,Pixar,260
+Crimson Sky 3,2014,T. Johnson,160,6,270464,A spine-chilling tale that evokes fear and dread.,USA,465759764,Horror,Paramount Pictures,592
+Firestorm 8,1988,S. Chen,125,4,301706,A touching love story with heartwarming moments.,France,980966690,Romance,Netflix,780
+Eternal Love 15,1987,S. Chen,141,7.1,73722,A touching love story with heartwarming moments.,India,327722683,Romance,Sony Pictures,14
+Crimson Sky 17,2021,R. Lee,168,4.6,310297,A light-hearted comedy that guarantees laughter.,India,422898206,Comedy,Paramount Pictures,636
+Midnight Sun 20,1988,P. Adams,176,4.1,191749,A light-hearted comedy that guarantees laughter.,UK,69813738,Comedy,Sony Pictures,711
+Silent Echo 12,1984,N. Roy,87,6.8,188507,A suspenseful plot filled with unexpected twists.,USA,850150842,Thriller,Paramount Pictures,742
+Quiet Heart 10,2000,J. Smith,119,6,471778,A light-hearted comedy that guarantees laughter.,UK,465759764,Comedy,Pixar,710
+Eternal Love 11,2006,N. Roy,107,8.3,259507,A spine-chilling tale that evokes fear and dread.,USA,422898206,Horror,Warner Bros,245
+City Lights 19,1992,S. Chen,104,8.6,119807,A suspenseful plot filled with unexpected twists.,India,225526871,Thriller,Sony Pictures,159
+Silent Echo 18,2016,M. Brown,89,9.2,68072,A spine-chilling tale that evokes fear and dread.,USA,403157039,Horror,Amazon Studios,512
+Firestorm 12,2007,M. Brown,119,8.9,74403,A light-hearted comedy that guarantees laughter.,Japan,179936008,Comedy,DreamWorks,744
+Midnight Sun 8,1995,S. Chen,118,8.3,103861,A fast-paced thriller with intense action scenes.,Japan,986810260,Action,Yash Raj Films,565
+Frozen Whisper 16,2021,T. Johnson,129,9,166647,A touching love story with heartwarming moments.,USA,770412921,Romance,Warner Bros,962
+Last Mission 3,2023,D. Patel,83,9.7,165845,A light-hearted comedy that guarantees laughter.,USA,115065591,Comedy,Amazon Studios,913
+Winds of Fate 19,2006,S. Chen,119,8.6,25373,An emotional journey exploring complex characters.,USA,719946753,Drama,Pixar,574
+Broken Truth 8,1998,S. Chen,154,4.1,27332,An imaginative world filled with magic and wonder.,Japan,746757001,Fantasy,Yash Raj Films,205
+Crimson Sky 6,2010,D. Patel,99,4,339315,A suspenseful plot filled with unexpected twists.,USA,802121619,Thriller,Amazon Studios,924
+Quiet Heart 11,1995,L. Zhang,156,9.1,229215,A suspenseful plot filled with unexpected twists.,UK,225526871,Thriller,Warner Bros,555
+Silent Echo 10,1997,J. Smith,102,6,119342,A suspenseful plot filled with unexpected twists.,Japan,501027941,Thriller,Pixar,712
+Frozen Whisper 7,1986,R. Lee,108,9.9,73678,An emotional journey exploring complex characters.,France,235719390,Drama,Pixar,310
+Crimson Sky 14,2010,J. Smith,88,7.3,345105,A spine-chilling tale that evokes fear and dread.,UK,200330529,Horror,Studio Ghibli,296
+Quiet Heart 4,1981,J. Smith,95,6.2,393264,A touching love story with heartwarming moments.,USA,400204169,Romance,Paramount Pictures,15
+Quiet Heart 2,1989,M. Brown,95,7.8,220079,A touching love story with heartwarming moments.,France,702334865,Romance,Paramount Pictures,684
+Broken Truth 6,1982,M. Brown,159,5.3,48368,A touching love story with heartwarming moments.,Japan,206472368,Romance,Warner Bros,283
+Quiet Heart 12,2009,S. Chen,81,5.8,229034,A spine-chilling tale that evokes fear and dread.,Japan,501027941,Horror,Paramount Pictures,941
+Eternal Love 11,1986,D. Patel,127,8.4,384007,A suspenseful plot filled with unexpected twists.,UK,884189814,Thriller,Warner Bros,697
+Eternal Love 13,1988,A. Khan,173,7.8,375465,A spine-chilling tale that evokes fear and dread.,UK,222735463,Horror,Studio Ghibli,984
+Ocean Call 15,2006,D. Patel,146,6.4,115947,An emotional journey exploring complex characters.,USA,802121619,Drama,Yash Raj Films,199
+Lost World 13,2003,S. Chen,109,8,431300,A suspenseful plot filled with unexpected twists.,USA,815292816,Thriller,Warner Bros,776
+Midnight Sun 2,2020,A. Khan,170,4.4,190870,A touching love story with heartwarming moments.,India,699675237,Romance,Amazon Studios,624
+Last Mission 1,2000,M. Brown,93,8.9,115244,A spine-chilling tale that evokes fear and dread.,Japan,535226842,Horror,DreamWorks,402
+Silent Echo 14,1988,N. Roy,83,8,158858,An imaginative world filled with magic and wonder.,UK,467259847,Fantasy,Amazon Studios,846
+Midnight Sun 10,1994,D. Patel,154,4.1,273819,An emotional journey exploring complex characters.,South Korea,867614592,Drama,Universal Pictures,858
+Last Mission 14,1980,S. Chen,150,9.8,124855,A suspenseful plot filled with unexpected twists.,USA,452570078,Thriller,Warner Bros,248
+Last Mission 1,2018,N. Roy,107,4.1,335339,A touching love story with heartwarming moments.,France,683354661,Romance,DreamWorks,977
+Silent Echo 19,2010,M. Brown,99,5.7,43665,A touching love story with heartwarming moments.,Japan,57768258,Romance,Universal Pictures,664
+Firestorm 11,2022,P. Adams,105,8.4,51937,An imaginative world filled with magic and wonder.,Japan,438802491,Fantasy,Universal Pictures,455
+Midnight Sun 19,2017,A. Khan,176,8.6,74604,A light-hearted comedy that guarantees laughter.,India,422186480,Comedy,Warner Bros,452
