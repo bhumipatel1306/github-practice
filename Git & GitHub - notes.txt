@@ -1,0 +1,15 @@
+Git & GitHub — Basic Notes
+Git → Computerમાં files/codeના changes track કરવા માટેનું tool.
+GitHub → Online platform જ્યાં Git repositories store અને share કરી શકાય.
+Repository → Project રાખવા માટેનું folder.
+Local Repository → Computerમાં રહેલી Git repository.
+Remote Repository → GitHub પર રહેલી repository.
+Public Repository → બધા લોકો જોઈ શકે.
+Private Repository → માત્ર authorized લોકો જોઈ શકે.
+git init → Current folderને Local Git Repository બનાવે.
+git status → Repositoryની current સ્થિતિ બતાવે.
+git add . → Current folderની filesને commit માટે stagingમાં મૂકે.
+git commit → Changesનું version Local Repositoryમાં save કરે.
+Push ⬆️ → Computer → GitHub
+Pull ⬇️ → GitHub → Computer
+Remote → Local Repositoryને GitHub Repository સાથે connect કરવાનું.
